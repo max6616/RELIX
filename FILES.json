@@ -12,8 +12,8 @@
     },
     {
       "path": "DATASET-CITATION.bib",
-      "bytes": 344,
-      "sha256": "956246fe812cba4235a33a431b151b5682e4957f80846d4a0120c68289fc7cdf"
+      "bytes": 365,
+      "sha256": "a22779d382e3b5abe05411f76a9c8f0ee877c79bfae935d8764bfa58d79b07b5"
     },
     {
       "path": "DATA_FORMAT.md",
@@ -37,8 +37,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 6407,
-      "sha256": "0733215dd3737295c7d261b0ee7292d7ee3349bf3f708c131a521285994d4705"
+      "bytes": 6428,
+      "sha256": "71c84f0feaaae445c7ac2ea974eb4a707fd77dc437a971955a3a9e96e374cddd"
     },
     {
       "path": "RELIX/lattice_aligned/__init__.py",

@@ -141,7 +141,8 @@ The published test split contains 10,000 source crystals and 100,000 simulated s
   title = {{RELIX} (Revision 0ab8d55)},
   year = {2026},
   publisher = {Hugging Face},
+  howpublished = {Hugging Face},
   doi = {10.57967/hf/10757},
-  url = {https://huggingface.co/datasets/max6616/RELIX}
+  url = {https://doi.org/10.57967/hf/10757}
 }
 ```
