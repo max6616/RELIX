@@ -1,0 +1,30 @@
+{
+  "platform": "Linux x86-64",
+  "environments": {
+    "inference": {
+      "python": "3.12.11",
+      "packages": {
+        "numpy": "2.3.3",
+        "scipy": "1.16.2",
+        "torch": "2.8.0+cu128",
+        "cctbx-base": "2025.8",
+        "sympy": "1.13.3"
+      }
+    },
+    "simulator": {
+      "python": "3.10.21",
+      "packages": {
+        "numpy": "1.26.4",
+        "scipy": "1.15.2",
+        "cctbx-base": "2025.12",
+        "dials": "3.22.dev0",
+        "dxtbx": "3.24.1",
+        "pyFAI": "2026.5.0",
+        "PyYAML": "6.0.3",
+        "orix": "0.15.0"
+      }
+    }
+  },
+  "validation": "Existing dependency runtimes, filesystem isolated from the research project; CPU inference",
+  "fresh_dependency_installation_tested": false
+}

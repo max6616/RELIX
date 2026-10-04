@@ -1,0 +1,5562 @@
+{
+  "version": "laue-systematic-absences-settings-merged-v1",
+  "classes": [
+    {
+      "id": 0,
+      "stable_id": "diffraction-1-2",
+      "space_groups": [
+        1,
+        2
+      ],
+      "space_group_symbols": [
+        "P 1",
+        "P -1"
+      ],
+      "point_groups": [
+        "-1",
+        "1"
+      ],
+      "laue": "P -1",
+      "crystal_system": "Triclinic"
+    },
+    {
+      "id": 1,
+      "stable_id": "diffraction-3-6-10",
+      "space_groups": [
+        3,
+        6,
+        10
+      ],
+      "space_group_symbols": [
+        "P 1 2 1",
+        "P 1 m 1",
+        "P 1 2/m 1"
+      ],
+      "point_groups": [
+        "2",
+        "2/m",
+        "m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 2,
+      "stable_id": "diffraction-4-11",
+      "space_groups": [
+        4,
+        11
+      ],
+      "space_group_symbols": [
+        "P 1 21 1",
+        "P 1 21/m 1"
+      ],
+      "point_groups": [
+        "2",
+        "2/m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 3,
+      "stable_id": "diffraction-5-8-12",
+      "space_groups": [
+        5,
+        8,
+        12
+      ],
+      "space_group_symbols": [
+        "C 1 2 1",
+        "C 1 m 1",
+        "C 1 2/m 1"
+      ],
+      "point_groups": [
+        "2",
+        "2/m",
+        "m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 4,
+      "stable_id": "diffraction-7-13",
+      "space_groups": [
+        7,
+        13
+      ],
+      "space_group_symbols": [
+        "P 1 c 1",
+        "P 1 2/c 1"
+      ],
+      "point_groups": [
+        "2/m",
+        "m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 5,
+      "stable_id": "diffraction-9-15",
+      "space_groups": [
+        9,
+        15
+      ],
+      "space_group_symbols": [
+        "C 1 c 1",
+        "C 1 2/c 1"
+      ],
+      "point_groups": [
+        "2/m",
+        "m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 6,
+      "stable_id": "diffraction-14",
+      "space_groups": [
+        14
+      ],
+      "space_group_symbols": [
+        "P 1 21/c 1"
+      ],
+      "point_groups": [
+        "2/m"
+      ],
+      "laue": "P 1 2/m 1",
+      "crystal_system": "Monoclinic"
+    },
+    {
+      "id": 7,
+      "stable_id": "diffraction-16-25-47",
+      "space_groups": [
+        16,
+        25,
+        47
+      ],
+      "space_group_symbols": [
+        "P 2 2 2",
+        "P m m 2",
+        "P m m m"
+      ],
+      "point_groups": [
+        "222",
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 8,
+      "stable_id": "diffraction-17",
+      "space_groups": [
+        17
+      ],
+      "space_group_symbols": [
+        "P 2 2 21"
+      ],
+      "point_groups": [
+        "222"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 9,
+      "stable_id": "diffraction-18",
+      "space_groups": [
+        18
+      ],
+      "space_group_symbols": [
+        "P 21 21 2"
+      ],
+      "point_groups": [
+        "222"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 10,
+      "stable_id": "diffraction-19",
+      "space_groups": [
+        19
+      ],
+      "space_group_symbols": [
+        "P 21 21 21"
+      ],
+      "point_groups": [
+        "222"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 11,
+      "stable_id": "diffraction-20",
+      "space_groups": [
+        20
+      ],
+      "space_group_symbols": [
+        "C 2 2 21"
+      ],
+      "point_groups": [
+        "222"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 12,
+      "stable_id": "diffraction-21-35-38-65",
+      "space_groups": [
+        21,
+        35,
+        38,
+        65
+      ],
+      "space_group_symbols": [
+        "C 2 2 2",
+        "C m m 2",
+        "A m m 2",
+        "C m m m"
+      ],
+      "point_groups": [
+        "222",
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 13,
+      "stable_id": "diffraction-22-42-69",
+      "space_groups": [
+        22,
+        42,
+        69
+      ],
+      "space_group_symbols": [
+        "F 2 2 2",
+        "F m m 2",
+        "F m m m"
+      ],
+      "point_groups": [
+        "222",
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 14,
+      "stable_id": "diffraction-23-24-44-71",
+      "space_groups": [
+        23,
+        24,
+        44,
+        71
+      ],
+      "space_group_symbols": [
+        "I 2 2 2",
+        "I 21 21 21",
+        "I m m 2",
+        "I m m m"
+      ],
+      "point_groups": [
+        "222",
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 15,
+      "stable_id": "diffraction-26-28-51",
+      "space_groups": [
+        26,
+        28,
+        51
+      ],
+      "space_group_symbols": [
+        "P m c 21",
+        "P m a 2",
+        "P m m a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 16,
+      "stable_id": "diffraction-27-49",
+      "space_groups": [
+        27,
+        49
+      ],
+      "space_group_symbols": [
+        "P c c 2",
+        "P c c m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 17,
+      "stable_id": "diffraction-29-57",
+      "space_groups": [
+        29,
+        57
+      ],
+      "space_group_symbols": [
+        "P c a 21",
+        "P b c m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 18,
+      "stable_id": "diffraction-30-53",
+      "space_groups": [
+        30,
+        53
+      ],
+      "space_group_symbols": [
+        "P n c 2",
+        "P m n a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 19,
+      "stable_id": "diffraction-31-59",
+      "space_groups": [
+        31,
+        59
+      ],
+      "space_group_symbols": [
+        "P m n 21",
+        "P m m n :2"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 20,
+      "stable_id": "diffraction-32-55",
+      "space_groups": [
+        32,
+        55
+      ],
+      "space_group_symbols": [
+        "P b a 2",
+        "P b a m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 21,
+      "stable_id": "diffraction-33-62",
+      "space_groups": [
+        33,
+        62
+      ],
+      "space_group_symbols": [
+        "P n a 21",
+        "P n m a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 22,
+      "stable_id": "diffraction-34-58",
+      "space_groups": [
+        34,
+        58
+      ],
+      "space_group_symbols": [
+        "P n n 2",
+        "P n n m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 23,
+      "stable_id": "diffraction-36-40-63",
+      "space_groups": [
+        36,
+        40,
+        63
+      ],
+      "space_group_symbols": [
+        "C m c 21",
+        "A m a 2",
+        "C m c m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 24,
+      "stable_id": "diffraction-37-66",
+      "space_groups": [
+        37,
+        66
+      ],
+      "space_group_symbols": [
+        "C c c 2",
+        "C c c m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 25,
+      "stable_id": "diffraction-39-67",
+      "space_groups": [
+        39,
+        67
+      ],
+      "space_group_symbols": [
+        "A b m 2",
+        "C m m a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 26,
+      "stable_id": "diffraction-41-64",
+      "space_groups": [
+        41,
+        64
+      ],
+      "space_group_symbols": [
+        "A b a 2",
+        "C m c a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 27,
+      "stable_id": "diffraction-43",
+      "space_groups": [
+        43
+      ],
+      "space_group_symbols": [
+        "F d d 2"
+      ],
+      "point_groups": [
+        "mm2"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 28,
+      "stable_id": "diffraction-45-72",
+      "space_groups": [
+        45,
+        72
+      ],
+      "space_group_symbols": [
+        "I b a 2",
+        "I b a m"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 29,
+      "stable_id": "diffraction-46-74",
+      "space_groups": [
+        46,
+        74
+      ],
+      "space_group_symbols": [
+        "I m a 2",
+        "I m m a"
+      ],
+      "point_groups": [
+        "mm2",
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 30,
+      "stable_id": "diffraction-48",
+      "space_groups": [
+        48
+      ],
+      "space_group_symbols": [
+        "P n n n :2"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 31,
+      "stable_id": "diffraction-50",
+      "space_groups": [
+        50
+      ],
+      "space_group_symbols": [
+        "P b a n :2"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 32,
+      "stable_id": "diffraction-52",
+      "space_groups": [
+        52
+      ],
+      "space_group_symbols": [
+        "P n n a"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 33,
+      "stable_id": "diffraction-54",
+      "space_groups": [
+        54
+      ],
+      "space_group_symbols": [
+        "P c c a"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 34,
+      "stable_id": "diffraction-56",
+      "space_groups": [
+        56
+      ],
+      "space_group_symbols": [
+        "P c c n"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 35,
+      "stable_id": "diffraction-60",
+      "space_groups": [
+        60
+      ],
+      "space_group_symbols": [
+        "P b c n"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 36,
+      "stable_id": "diffraction-61",
+      "space_groups": [
+        61
+      ],
+      "space_group_symbols": [
+        "P b c a"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 37,
+      "stable_id": "diffraction-68",
+      "space_groups": [
+        68
+      ],
+      "space_group_symbols": [
+        "C c c a :2"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 38,
+      "stable_id": "diffraction-70",
+      "space_groups": [
+        70
+      ],
+      "space_group_symbols": [
+        "F d d d :2"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 39,
+      "stable_id": "diffraction-73",
+      "space_groups": [
+        73
+      ],
+      "space_group_symbols": [
+        "I b c a"
+      ],
+      "point_groups": [
+        "mmm"
+      ],
+      "laue": "P m m m",
+      "crystal_system": "Orthorhombic"
+    },
+    {
+      "id": 40,
+      "stable_id": "diffraction-75-81-83",
+      "space_groups": [
+        75,
+        81,
+        83
+      ],
+      "space_group_symbols": [
+        "P 4",
+        "P -4",
+        "P 4/m"
+      ],
+      "point_groups": [
+        "-4",
+        "4",
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 41,
+      "stable_id": "diffraction-76-78",
+      "space_groups": [
+        76,
+        78
+      ],
+      "space_group_symbols": [
+        "P 41",
+        "P 43"
+      ],
+      "point_groups": [
+        "4"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 42,
+      "stable_id": "diffraction-77-84",
+      "space_groups": [
+        77,
+        84
+      ],
+      "space_group_symbols": [
+        "P 42",
+        "P 42/m"
+      ],
+      "point_groups": [
+        "4",
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 43,
+      "stable_id": "diffraction-79-82-87",
+      "space_groups": [
+        79,
+        82,
+        87
+      ],
+      "space_group_symbols": [
+        "I 4",
+        "I -4",
+        "I 4/m"
+      ],
+      "point_groups": [
+        "-4",
+        "4",
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 44,
+      "stable_id": "diffraction-80",
+      "space_groups": [
+        80
+      ],
+      "space_group_symbols": [
+        "I 41"
+      ],
+      "point_groups": [
+        "4"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 45,
+      "stable_id": "diffraction-85",
+      "space_groups": [
+        85
+      ],
+      "space_group_symbols": [
+        "P 4/n :2"
+      ],
+      "point_groups": [
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 46,
+      "stable_id": "diffraction-86",
+      "space_groups": [
+        86
+      ],
+      "space_group_symbols": [
+        "P 42/n :2"
+      ],
+      "point_groups": [
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 47,
+      "stable_id": "diffraction-88",
+      "space_groups": [
+        88
+      ],
+      "space_group_symbols": [
+        "I 41/a :2"
+      ],
+      "point_groups": [
+        "4/m"
+      ],
+      "laue": "P 4/m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 48,
+      "stable_id": "diffraction-89-99-111-115-123",
+      "space_groups": [
+        89,
+        99,
+        111,
+        115,
+        123
+      ],
+      "space_group_symbols": [
+        "P 4 2 2",
+        "P 4 m m",
+        "P -4 2 m",
+        "P -4 m 2",
+        "P 4/m m m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "422",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 49,
+      "stable_id": "diffraction-90-113",
+      "space_groups": [
+        90,
+        113
+      ],
+      "space_group_symbols": [
+        "P 4 21 2",
+        "P -4 21 m"
+      ],
+      "point_groups": [
+        "-42m",
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 50,
+      "stable_id": "diffraction-91-95",
+      "space_groups": [
+        91,
+        95
+      ],
+      "space_group_symbols": [
+        "P 41 2 2",
+        "P 43 2 2"
+      ],
+      "point_groups": [
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 51,
+      "stable_id": "diffraction-92-96",
+      "space_groups": [
+        92,
+        96
+      ],
+      "space_group_symbols": [
+        "P 41 21 2",
+        "P 43 21 2"
+      ],
+      "point_groups": [
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 52,
+      "stable_id": "diffraction-93",
+      "space_groups": [
+        93
+      ],
+      "space_group_symbols": [
+        "P 42 2 2"
+      ],
+      "point_groups": [
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 53,
+      "stable_id": "diffraction-94",
+      "space_groups": [
+        94
+      ],
+      "space_group_symbols": [
+        "P 42 21 2"
+      ],
+      "point_groups": [
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 54,
+      "stable_id": "diffraction-97-107-119-121-139",
+      "space_groups": [
+        97,
+        107,
+        119,
+        121,
+        139
+      ],
+      "space_group_symbols": [
+        "I 4 2 2",
+        "I 4 m m",
+        "I -4 m 2",
+        "I -4 2 m",
+        "I 4/m m m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "422",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 55,
+      "stable_id": "diffraction-98",
+      "space_groups": [
+        98
+      ],
+      "space_group_symbols": [
+        "I 41 2 2"
+      ],
+      "point_groups": [
+        "422"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 56,
+      "stable_id": "diffraction-100-117-127",
+      "space_groups": [
+        100,
+        117,
+        127
+      ],
+      "space_group_symbols": [
+        "P 4 b m",
+        "P -4 b 2",
+        "P 4/m b m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 57,
+      "stable_id": "diffraction-101-116-132",
+      "space_groups": [
+        101,
+        116,
+        132
+      ],
+      "space_group_symbols": [
+        "P 42 c m",
+        "P -4 c 2",
+        "P 42/m c m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 58,
+      "stable_id": "diffraction-102-118-136",
+      "space_groups": [
+        102,
+        118,
+        136
+      ],
+      "space_group_symbols": [
+        "P 42 n m",
+        "P -4 n 2",
+        "P 42/m n m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 59,
+      "stable_id": "diffraction-103-124",
+      "space_groups": [
+        103,
+        124
+      ],
+      "space_group_symbols": [
+        "P 4 c c",
+        "P 4/m c c"
+      ],
+      "point_groups": [
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 60,
+      "stable_id": "diffraction-104-128",
+      "space_groups": [
+        104,
+        128
+      ],
+      "space_group_symbols": [
+        "P 4 n c",
+        "P 4/m n c"
+      ],
+      "point_groups": [
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 61,
+      "stable_id": "diffraction-105-112-131",
+      "space_groups": [
+        105,
+        112,
+        131
+      ],
+      "space_group_symbols": [
+        "P 42 m c",
+        "P -4 2 c",
+        "P 42/m m c"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 62,
+      "stable_id": "diffraction-106-135",
+      "space_groups": [
+        106,
+        135
+      ],
+      "space_group_symbols": [
+        "P 42 b c",
+        "P 42/m b c"
+      ],
+      "point_groups": [
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 63,
+      "stable_id": "diffraction-108-120-140",
+      "space_groups": [
+        108,
+        120,
+        140
+      ],
+      "space_group_symbols": [
+        "I 4 c m",
+        "I -4 c 2",
+        "I 4/m c m"
+      ],
+      "point_groups": [
+        "-42m",
+        "4/mmm",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 64,
+      "stable_id": "diffraction-109-122",
+      "space_groups": [
+        109,
+        122
+      ],
+      "space_group_symbols": [
+        "I 41 m d",
+        "I -4 2 d"
+      ],
+      "point_groups": [
+        "-42m",
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 65,
+      "stable_id": "diffraction-110",
+      "space_groups": [
+        110
+      ],
+      "space_group_symbols": [
+        "I 41 c d"
+      ],
+      "point_groups": [
+        "4mm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 66,
+      "stable_id": "diffraction-114",
+      "space_groups": [
+        114
+      ],
+      "space_group_symbols": [
+        "P -4 21 c"
+      ],
+      "point_groups": [
+        "-42m"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 67,
+      "stable_id": "diffraction-125",
+      "space_groups": [
+        125
+      ],
+      "space_group_symbols": [
+        "P 4/n b m :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 68,
+      "stable_id": "diffraction-126",
+      "space_groups": [
+        126
+      ],
+      "space_group_symbols": [
+        "P 4/n n c :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 69,
+      "stable_id": "diffraction-129",
+      "space_groups": [
+        129
+      ],
+      "space_group_symbols": [
+        "P 4/n m m :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 70,
+      "stable_id": "diffraction-130",
+      "space_groups": [
+        130
+      ],
+      "space_group_symbols": [
+        "P 4/n c c :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 71,
+      "stable_id": "diffraction-133",
+      "space_groups": [
+        133
+      ],
+      "space_group_symbols": [
+        "P 42/n b c :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 72,
+      "stable_id": "diffraction-134",
+      "space_groups": [
+        134
+      ],
+      "space_group_symbols": [
+        "P 42/n n m :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 73,
+      "stable_id": "diffraction-137",
+      "space_groups": [
+        137
+      ],
+      "space_group_symbols": [
+        "P 42/n m c :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 74,
+      "stable_id": "diffraction-138",
+      "space_groups": [
+        138
+      ],
+      "space_group_symbols": [
+        "P 42/n c m :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 75,
+      "stable_id": "diffraction-141",
+      "space_groups": [
+        141
+      ],
+      "space_group_symbols": [
+        "I 41/a m d :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 76,
+      "stable_id": "diffraction-142",
+      "space_groups": [
+        142
+      ],
+      "space_group_symbols": [
+        "I 41/a c d :2"
+      ],
+      "point_groups": [
+        "4/mmm"
+      ],
+      "laue": "P 4/m m m",
+      "crystal_system": "Tetragonal"
+    },
+    {
+      "id": 77,
+      "stable_id": "diffraction-143-147",
+      "space_groups": [
+        143,
+        147
+      ],
+      "space_group_symbols": [
+        "P 3",
+        "P -3"
+      ],
+      "point_groups": [
+        "-3",
+        "3"
+      ],
+      "laue": "P -3",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 78,
+      "stable_id": "diffraction-144-145",
+      "space_groups": [
+        144,
+        145
+      ],
+      "space_group_symbols": [
+        "P 31",
+        "P 32"
+      ],
+      "point_groups": [
+        "3"
+      ],
+      "laue": "P -3",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 79,
+      "stable_id": "diffraction-146-148",
+      "space_groups": [
+        146,
+        148
+      ],
+      "space_group_symbols": [
+        "R 3 :H",
+        "R -3 :H"
+      ],
+      "point_groups": [
+        "-3",
+        "3"
+      ],
+      "laue": "P -3",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 80,
+      "stable_id": "diffraction-149-157-162",
+      "space_groups": [
+        149,
+        157,
+        162
+      ],
+      "space_group_symbols": [
+        "P 3 1 2",
+        "P 3 1 m",
+        "P -3 1 m"
+      ],
+      "point_groups": [
+        "-3m",
+        "32",
+        "3m"
+      ],
+      "laue": "P -3 1 m",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 81,
+      "stable_id": "diffraction-150-156-164",
+      "space_groups": [
+        150,
+        156,
+        164
+      ],
+      "space_group_symbols": [
+        "P 3 2 1",
+        "P 3 m 1",
+        "P -3 m 1"
+      ],
+      "point_groups": [
+        "-3m",
+        "32",
+        "3m"
+      ],
+      "laue": "P -3 m 1",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 82,
+      "stable_id": "diffraction-151-153",
+      "space_groups": [
+        151,
+        153
+      ],
+      "space_group_symbols": [
+        "P 31 1 2",
+        "P 32 1 2"
+      ],
+      "point_groups": [
+        "32"
+      ],
+      "laue": "P -3 1 m",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 83,
+      "stable_id": "diffraction-152-154",
+      "space_groups": [
+        152,
+        154
+      ],
+      "space_group_symbols": [
+        "P 31 2 1",
+        "P 32 2 1"
+      ],
+      "point_groups": [
+        "32"
+      ],
+      "laue": "P -3 m 1",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 84,
+      "stable_id": "diffraction-155-160-166",
+      "space_groups": [
+        155,
+        160,
+        166
+      ],
+      "space_group_symbols": [
+        "R 3 2 :H",
+        "R 3 m :H",
+        "R -3 m :H"
+      ],
+      "point_groups": [
+        "-3m",
+        "32",
+        "3m"
+      ],
+      "laue": "P -3 m 1",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 85,
+      "stable_id": "diffraction-158-165",
+      "space_groups": [
+        158,
+        165
+      ],
+      "space_group_symbols": [
+        "P 3 c 1",
+        "P -3 c 1"
+      ],
+      "point_groups": [
+        "-3m",
+        "3m"
+      ],
+      "laue": "P -3 m 1",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 86,
+      "stable_id": "diffraction-159-163",
+      "space_groups": [
+        159,
+        163
+      ],
+      "space_group_symbols": [
+        "P 3 1 c",
+        "P -3 1 c"
+      ],
+      "point_groups": [
+        "-3m",
+        "3m"
+      ],
+      "laue": "P -3 1 m",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 87,
+      "stable_id": "diffraction-161-167",
+      "space_groups": [
+        161,
+        167
+      ],
+      "space_group_symbols": [
+        "R 3 c :H",
+        "R -3 c :H"
+      ],
+      "point_groups": [
+        "-3m",
+        "3m"
+      ],
+      "laue": "P -3 m 1",
+      "crystal_system": "Trigonal"
+    },
+    {
+      "id": 88,
+      "stable_id": "diffraction-168-174-175",
+      "space_groups": [
+        168,
+        174,
+        175
+      ],
+      "space_group_symbols": [
+        "P 6",
+        "P -6",
+        "P 6/m"
+      ],
+      "point_groups": [
+        "-6",
+        "6",
+        "6/m"
+      ],
+      "laue": "P 6/m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 89,
+      "stable_id": "diffraction-169-170",
+      "space_groups": [
+        169,
+        170
+      ],
+      "space_group_symbols": [
+        "P 61",
+        "P 65"
+      ],
+      "point_groups": [
+        "6"
+      ],
+      "laue": "P 6/m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 90,
+      "stable_id": "diffraction-171-172",
+      "space_groups": [
+        171,
+        172
+      ],
+      "space_group_symbols": [
+        "P 62",
+        "P 64"
+      ],
+      "point_groups": [
+        "6"
+      ],
+      "laue": "P 6/m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 91,
+      "stable_id": "diffraction-173-176",
+      "space_groups": [
+        173,
+        176
+      ],
+      "space_group_symbols": [
+        "P 63",
+        "P 63/m"
+      ],
+      "point_groups": [
+        "6",
+        "6/m"
+      ],
+      "laue": "P 6/m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 92,
+      "stable_id": "diffraction-177-183-187-189-191",
+      "space_groups": [
+        177,
+        183,
+        187,
+        189,
+        191
+      ],
+      "space_group_symbols": [
+        "P 6 2 2",
+        "P 6 m m",
+        "P -6 m 2",
+        "P -6 2 m",
+        "P 6/m m m"
+      ],
+      "point_groups": [
+        "-62m",
+        "6/mmm",
+        "622",
+        "6mm"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 93,
+      "stable_id": "diffraction-178-179",
+      "space_groups": [
+        178,
+        179
+      ],
+      "space_group_symbols": [
+        "P 61 2 2",
+        "P 65 2 2"
+      ],
+      "point_groups": [
+        "622"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 94,
+      "stable_id": "diffraction-180-181",
+      "space_groups": [
+        180,
+        181
+      ],
+      "space_group_symbols": [
+        "P 62 2 2",
+        "P 64 2 2"
+      ],
+      "point_groups": [
+        "622"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 95,
+      "stable_id": "diffraction-182",
+      "space_groups": [
+        182
+      ],
+      "space_group_symbols": [
+        "P 63 2 2"
+      ],
+      "point_groups": [
+        "622"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 96,
+      "stable_id": "diffraction-184-192",
+      "space_groups": [
+        184,
+        192
+      ],
+      "space_group_symbols": [
+        "P 6 c c",
+        "P 6/m c c"
+      ],
+      "point_groups": [
+        "6/mmm",
+        "6mm"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 97,
+      "stable_id": "diffraction-185-188-193",
+      "space_groups": [
+        185,
+        188,
+        193
+      ],
+      "space_group_symbols": [
+        "P 63 c m",
+        "P -6 c 2",
+        "P 63/m c m"
+      ],
+      "point_groups": [
+        "-62m",
+        "6/mmm",
+        "6mm"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 98,
+      "stable_id": "diffraction-186-190-194",
+      "space_groups": [
+        186,
+        190,
+        194
+      ],
+      "space_group_symbols": [
+        "P 63 m c",
+        "P -6 2 c",
+        "P 63/m m c"
+      ],
+      "point_groups": [
+        "-62m",
+        "6/mmm",
+        "6mm"
+      ],
+      "laue": "P 6/m m m",
+      "crystal_system": "Hexagonal"
+    },
+    {
+      "id": 99,
+      "stable_id": "diffraction-195-200",
+      "space_groups": [
+        195,
+        200
+      ],
+      "space_group_symbols": [
+        "P 2 3",
+        "P m -3"
+      ],
+      "point_groups": [
+        "23",
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 100,
+      "stable_id": "diffraction-196-202",
+      "space_groups": [
+        196,
+        202
+      ],
+      "space_group_symbols": [
+        "F 2 3",
+        "F m -3"
+      ],
+      "point_groups": [
+        "23",
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 101,
+      "stable_id": "diffraction-197-199-204",
+      "space_groups": [
+        197,
+        199,
+        204
+      ],
+      "space_group_symbols": [
+        "I 2 3",
+        "I 21 3",
+        "I m -3"
+      ],
+      "point_groups": [
+        "23",
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 102,
+      "stable_id": "diffraction-198",
+      "space_groups": [
+        198
+      ],
+      "space_group_symbols": [
+        "P 21 3"
+      ],
+      "point_groups": [
+        "23"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 103,
+      "stable_id": "diffraction-201",
+      "space_groups": [
+        201
+      ],
+      "space_group_symbols": [
+        "P n -3 :2"
+      ],
+      "point_groups": [
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 104,
+      "stable_id": "diffraction-203",
+      "space_groups": [
+        203
+      ],
+      "space_group_symbols": [
+        "F d -3 :2"
+      ],
+      "point_groups": [
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 105,
+      "stable_id": "diffraction-205",
+      "space_groups": [
+        205
+      ],
+      "space_group_symbols": [
+        "P a -3"
+      ],
+      "point_groups": [
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 106,
+      "stable_id": "diffraction-206",
+      "space_groups": [
+        206
+      ],
+      "space_group_symbols": [
+        "I a -3"
+      ],
+      "point_groups": [
+        "m-3"
+      ],
+      "laue": "P m -3",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 107,
+      "stable_id": "diffraction-207-215-221",
+      "space_groups": [
+        207,
+        215,
+        221
+      ],
+      "space_group_symbols": [
+        "P 4 3 2",
+        "P -4 3 m",
+        "P m -3 m"
+      ],
+      "point_groups": [
+        "-43m",
+        "432",
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 108,
+      "stable_id": "diffraction-208",
+      "space_groups": [
+        208
+      ],
+      "space_group_symbols": [
+        "P 42 3 2"
+      ],
+      "point_groups": [
+        "432"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 109,
+      "stable_id": "diffraction-209-216-225",
+      "space_groups": [
+        209,
+        216,
+        225
+      ],
+      "space_group_symbols": [
+        "F 4 3 2",
+        "F -4 3 m",
+        "F m -3 m"
+      ],
+      "point_groups": [
+        "-43m",
+        "432",
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 110,
+      "stable_id": "diffraction-210",
+      "space_groups": [
+        210
+      ],
+      "space_group_symbols": [
+        "F 41 3 2"
+      ],
+      "point_groups": [
+        "432"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 111,
+      "stable_id": "diffraction-211-217-229",
+      "space_groups": [
+        211,
+        217,
+        229
+      ],
+      "space_group_symbols": [
+        "I 4 3 2",
+        "I -4 3 m",
+        "I m -3 m"
+      ],
+      "point_groups": [
+        "-43m",
+        "432",
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 112,
+      "stable_id": "diffraction-212-213",
+      "space_groups": [
+        212,
+        213
+      ],
+      "space_group_symbols": [
+        "P 43 3 2",
+        "P 41 3 2"
+      ],
+      "point_groups": [
+        "432"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 113,
+      "stable_id": "diffraction-214",
+      "space_groups": [
+        214
+      ],
+      "space_group_symbols": [
+        "I 41 3 2"
+      ],
+      "point_groups": [
+        "432"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 114,
+      "stable_id": "diffraction-218-223",
+      "space_groups": [
+        218,
+        223
+      ],
+      "space_group_symbols": [
+        "P -4 3 n",
+        "P m -3 n"
+      ],
+      "point_groups": [
+        "-43m",
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 115,
+      "stable_id": "diffraction-219-226",
+      "space_groups": [
+        219,
+        226
+      ],
+      "space_group_symbols": [
+        "F -4 3 c",
+        "F m -3 c"
+      ],
+      "point_groups": [
+        "-43m",
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 116,
+      "stable_id": "diffraction-220",
+      "space_groups": [
+        220
+      ],
+      "space_group_symbols": [
+        "I -4 3 d"
+      ],
+      "point_groups": [
+        "-43m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 117,
+      "stable_id": "diffraction-222",
+      "space_groups": [
+        222
+      ],
+      "space_group_symbols": [
+        "P n -3 n :2"
+      ],
+      "point_groups": [
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 118,
+      "stable_id": "diffraction-224",
+      "space_groups": [
+        224
+      ],
+      "space_group_symbols": [
+        "P n -3 m :2"
+      ],
+      "point_groups": [
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 119,
+      "stable_id": "diffraction-227",
+      "space_groups": [
+        227
+      ],
+      "space_group_symbols": [
+        "F d -3 m :2"
+      ],
+      "point_groups": [
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 120,
+      "stable_id": "diffraction-228",
+      "space_groups": [
+        228
+      ],
+      "space_group_symbols": [
+        "F d -3 c :2"
+      ],
+      "point_groups": [
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    },
+    {
+      "id": 121,
+      "stable_id": "diffraction-230",
+      "space_groups": [
+        230
+      ],
+      "space_group_symbols": [
+        "I a -3 d"
+      ],
+      "point_groups": [
+        "m-3m"
+      ],
+      "laue": "P m -3 m",
+      "crystal_system": "Cubic"
+    }
+  ],
+  "sg_to_class": [
+    0,
+    0,
+    1,
+    2,
+    3,
+    1,
+    4,
+    3,
+    5,
+    1,
+    2,
+    3,
+    4,
+    6,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    14,
+    7,
+    15,
+    16,
+    15,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    12,
+    23,
+    24,
+    12,
+    25,
+    23,
+    26,
+    13,
+    27,
+    14,
+    28,
+    29,
+    7,
+    30,
+    16,
+    31,
+    15,
+    32,
+    18,
+    33,
+    20,
+    34,
+    17,
+    22,
+    19,
+    35,
+    36,
+    21,
+    23,
+    26,
+    12,
+    24,
+    25,
+    37,
+    13,
+    38,
+    14,
+    28,
+    39,
+    29,
+    40,
+    41,
+    42,
+    41,
+    43,
+    44,
+    40,
+    43,
+    40,
+    42,
+    45,
+    46,
+    43,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    50,
+    51,
+    54,
+    55,
+    48,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    54,
+    63,
+    64,
+    65,
+    48,
+    61,
+    49,
+    66,
+    48,
+    57,
+    56,
+    58,
+    54,
+    63,
+    54,
+    64,
+    48,
+    59,
+    67,
+    68,
+    56,
+    60,
+    69,
+    70,
+    61,
+    57,
+    71,
+    72,
+    62,
+    58,
+    73,
+    74,
+    54,
+    63,
+    75,
+    76,
+    77,
+    78,
+    78,
+    79,
+    77,
+    79,
+    80,
+    81,
+    82,
+    83,
+    82,
+    83,
+    84,
+    81,
+    80,
+    85,
+    86,
+    84,
+    87,
+    80,
+    86,
+    81,
+    85,
+    84,
+    87,
+    88,
+    89,
+    89,
+    90,
+    90,
+    91,
+    88,
+    88,
+    91,
+    92,
+    93,
+    93,
+    94,
+    94,
+    95,
+    92,
+    96,
+    97,
+    98,
+    92,
+    97,
+    92,
+    98,
+    92,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    101,
+    99,
+    103,
+    100,
+    104,
+    101,
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    112,
+    113,
+    107,
+    109,
+    111,
+    114,
+    115,
+    116,
+    107,
+    117,
+    114,
+    118,
+    109,
+    115,
+    119,
+    120,
+    111,
+    121
+  ],
+  "settings": [
+    {
+      "symbol": "P 1",
+      "hall": " P 1",
+      "space_group": 1,
+      "class_id": 0
+    },
+    {
+      "symbol": "P -1",
+      "hall": "-P 1",
+      "space_group": 2,
+      "class_id": 0
+    },
+    {
+      "symbol": "P 1 2 1",
+      "hall": " P 2y",
+      "space_group": 3,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 1 2",
+      "hall": " P 2",
+      "space_group": 3,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 2 1 1",
+      "hall": " P 2x",
+      "space_group": 3,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 21 1",
+      "hall": " P 2yb",
+      "space_group": 4,
+      "class_id": 2
+    },
+    {
+      "symbol": "P 1 1 21",
+      "hall": " P 2c",
+      "space_group": 4,
+      "class_id": 2
+    },
+    {
+      "symbol": "P 21 1 1",
+      "hall": " P 2xa",
+      "space_group": 4,
+      "class_id": 2
+    },
+    {
+      "symbol": "C 1 2 1",
+      "hall": " C 2y",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 2 1",
+      "hall": " A 2y",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 2 1",
+      "hall": " I 2y",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 1 2",
+      "hall": " A 2",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "B 1 1 2",
+      "hall": " B 2",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 1 2",
+      "hall": " I 2",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "B 2 1 1",
+      "hall": " B 2x",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "C 2 1 1",
+      "hall": " C 2x",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 2 1 1",
+      "hall": " I 2x",
+      "space_group": 5,
+      "class_id": 3
+    },
+    {
+      "symbol": "P 1 m 1",
+      "hall": " P -2y",
+      "space_group": 6,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 1 m",
+      "hall": " P -2",
+      "space_group": 6,
+      "class_id": 1
+    },
+    {
+      "symbol": "P m 1 1",
+      "hall": " P -2x",
+      "space_group": 6,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 c 1",
+      "hall": " P -2yc",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 n 1",
+      "hall": " P -2yac",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 a 1",
+      "hall": " P -2ya",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 a",
+      "hall": " P -2a",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 n",
+      "hall": " P -2ab",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 b",
+      "hall": " P -2b",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P b 1 1",
+      "hall": " P -2xb",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P n 1 1",
+      "hall": " P -2xbc",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "P c 1 1",
+      "hall": " P -2xc",
+      "space_group": 7,
+      "class_id": 4
+    },
+    {
+      "symbol": "C 1 m 1",
+      "hall": " C -2y",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 m 1",
+      "hall": " A -2y",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 m 1",
+      "hall": " I -2y",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 1 m",
+      "hall": " A -2",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "B 1 1 m",
+      "hall": " B -2",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 1 m",
+      "hall": " I -2",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "B m 1 1",
+      "hall": " B -2x",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "C m 1 1",
+      "hall": " C -2x",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "I m 1 1",
+      "hall": " I -2x",
+      "space_group": 8,
+      "class_id": 3
+    },
+    {
+      "symbol": "C 1 c 1",
+      "hall": " C -2yc",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 n 1",
+      "hall": " A -2yab",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 a 1",
+      "hall": " I -2ya",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 a 1",
+      "hall": " A -2ya",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "C 1 n 1",
+      "hall": " C -2yac",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 c 1",
+      "hall": " I -2yc",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 1 a",
+      "hall": " A -2a",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 1 1 n",
+      "hall": " B -2ab",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 1 b",
+      "hall": " I -2b",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 1 1 b",
+      "hall": " B -2b",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 1 n",
+      "hall": " A -2ab",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 1 a",
+      "hall": " I -2a",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "B b 1 1",
+      "hall": " B -2xb",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "C n 1 1",
+      "hall": " C -2xac",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I c 1 1",
+      "hall": " I -2xc",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "C c 1 1",
+      "hall": " C -2xc",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "B n 1 1",
+      "hall": " B -2xab",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "I b 1 1",
+      "hall": " I -2xb",
+      "space_group": 9,
+      "class_id": 5
+    },
+    {
+      "symbol": "P 1 2/m 1",
+      "hall": "-P 2y",
+      "space_group": 10,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 1 2/m",
+      "hall": "-P 2",
+      "space_group": 10,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 2/m 1 1",
+      "hall": "-P 2x",
+      "space_group": 10,
+      "class_id": 1
+    },
+    {
+      "symbol": "P 1 21/m 1",
+      "hall": "-P 2yb",
+      "space_group": 11,
+      "class_id": 2
+    },
+    {
+      "symbol": "P 1 1 21/m",
+      "hall": "-P 2c",
+      "space_group": 11,
+      "class_id": 2
+    },
+    {
+      "symbol": "P 21/m 1 1",
+      "hall": "-P 2xa",
+      "space_group": 11,
+      "class_id": 2
+    },
+    {
+      "symbol": "C 1 2/m 1",
+      "hall": "-C 2y",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 2/m 1",
+      "hall": "-A 2y",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 2/m 1",
+      "hall": "-I 2y",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "A 1 1 2/m",
+      "hall": "-A 2",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "B 1 1 2/m",
+      "hall": "-B 2",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 1 1 2/m",
+      "hall": "-I 2",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "B 2/m 1 1",
+      "hall": "-B 2x",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "C 2/m 1 1",
+      "hall": "-C 2x",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "I 2/m 1 1",
+      "hall": "-I 2x",
+      "space_group": 12,
+      "class_id": 3
+    },
+    {
+      "symbol": "P 1 2/c 1",
+      "hall": "-P 2yc",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 2/n 1",
+      "hall": "-P 2yac",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 2/a 1",
+      "hall": "-P 2ya",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 2/a",
+      "hall": "-P 2a",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 2/n",
+      "hall": "-P 2ab",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 1 2/b",
+      "hall": "-P 2b",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 2/b 1 1",
+      "hall": "-P 2xb",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 2/n 1 1",
+      "hall": "-P 2xbc",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 2/c 1 1",
+      "hall": "-P 2xc",
+      "space_group": 13,
+      "class_id": 4
+    },
+    {
+      "symbol": "P 1 21/c 1",
+      "hall": "-P 2ybc",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 1 21/n 1",
+      "hall": "-P 2yn",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 1 21/a 1",
+      "hall": "-P 2yab",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 1 1 21/a",
+      "hall": "-P 2ac",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 1 1 21/n",
+      "hall": "-P 2n",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 1 1 21/b",
+      "hall": "-P 2bc",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 21/b 1 1",
+      "hall": "-P 2xab",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 21/n 1 1",
+      "hall": "-P 2xn",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "P 21/c 1 1",
+      "hall": "-P 2xac",
+      "space_group": 14,
+      "class_id": 6
+    },
+    {
+      "symbol": "C 1 2/c 1",
+      "hall": "-C 2yc",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 2/n 1",
+      "hall": "-A 2yab",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 2/a 1",
+      "hall": "-I 2ya",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 2/a 1",
+      "hall": "-A 2ya",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "C 1 2/n 1",
+      "hall": "-C 2yac",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 2/c 1",
+      "hall": "-I 2yc",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 1 2/a",
+      "hall": "-A 2a",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 1 1 2/n",
+      "hall": "-B 2ab",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 1 2/b",
+      "hall": "-I 2b",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 1 1 2/b",
+      "hall": "-B 2b",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "A 1 1 2/n",
+      "hall": "-A 2ab",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 1 1 2/a",
+      "hall": "-I 2a",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 2/b 1 1",
+      "hall": "-B 2xb",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "C 2/n 1 1",
+      "hall": "-C 2xac",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 2/c 1 1",
+      "hall": "-I 2xc",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "C 2/c 1 1",
+      "hall": "-C 2xc",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "B 2/n 1 1",
+      "hall": "-B 2xab",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "I 2/b 1 1",
+      "hall": "-I 2xb",
+      "space_group": 15,
+      "class_id": 5
+    },
+    {
+      "symbol": "P 2 2 2",
+      "hall": " P 2 2",
+      "space_group": 16,
+      "class_id": 7
+    },
+    {
+      "symbol": "P 2 2 21",
+      "hall": " P 2c 2",
+      "space_group": 17,
+      "class_id": 8
+    },
+    {
+      "symbol": "P 21 2 2",
+      "hall": " P 2a 2a",
+      "space_group": 17,
+      "class_id": 8
+    },
+    {
+      "symbol": "P 2 21 2",
+      "hall": " P 2 2b",
+      "space_group": 17,
+      "class_id": 8
+    },
+    {
+      "symbol": "P 21 21 2",
+      "hall": " P 2 2ab",
+      "space_group": 18,
+      "class_id": 9
+    },
+    {
+      "symbol": "P 2 21 21",
+      "hall": " P 2bc 2",
+      "space_group": 18,
+      "class_id": 9
+    },
+    {
+      "symbol": "P 21 2 21",
+      "hall": " P 2ac 2ac",
+      "space_group": 18,
+      "class_id": 9
+    },
+    {
+      "symbol": "P 21 21 21",
+      "hall": " P 2ac 2ab",
+      "space_group": 19,
+      "class_id": 10
+    },
+    {
+      "symbol": "C 2 2 21",
+      "hall": " C 2c 2",
+      "space_group": 20,
+      "class_id": 11
+    },
+    {
+      "symbol": "A 21 2 2",
+      "hall": " A 2a 2a",
+      "space_group": 20,
+      "class_id": 11
+    },
+    {
+      "symbol": "B 2 21 2",
+      "hall": " B 2 2b",
+      "space_group": 20,
+      "class_id": 11
+    },
+    {
+      "symbol": "C 2 2 2",
+      "hall": " C 2 2",
+      "space_group": 21,
+      "class_id": 12
+    },
+    {
+      "symbol": "A 2 2 2",
+      "hall": " A 2 2",
+      "space_group": 21,
+      "class_id": 12
+    },
+    {
+      "symbol": "B 2 2 2",
+      "hall": " B 2 2",
+      "space_group": 21,
+      "class_id": 12
+    },
+    {
+      "symbol": "F 2 2 2",
+      "hall": " F 2 2",
+      "space_group": 22,
+      "class_id": 13
+    },
+    {
+      "symbol": "I 2 2 2",
+      "hall": " I 2 2",
+      "space_group": 23,
+      "class_id": 14
+    },
+    {
+      "symbol": "I 21 21 21",
+      "hall": " I 2b 2c",
+      "space_group": 24,
+      "class_id": 14
+    },
+    {
+      "symbol": "P m m 2",
+      "hall": " P 2 -2",
+      "space_group": 25,
+      "class_id": 7
+    },
+    {
+      "symbol": "P 2 m m",
+      "hall": " P -2 2",
+      "space_group": 25,
+      "class_id": 7
+    },
+    {
+      "symbol": "P m 2 m",
+      "hall": " P -2 -2",
+      "space_group": 25,
+      "class_id": 7
+    },
+    {
+      "symbol": "P m c 21",
+      "hall": " P 2c -2",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P c m 21",
+      "hall": " P 2c -2c",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P 21 m a",
+      "hall": " P -2a 2a",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P 21 a m",
+      "hall": " P -2 2a",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P b 21 m",
+      "hall": " P -2 -2b",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P m 21 b",
+      "hall": " P -2b -2",
+      "space_group": 26,
+      "class_id": 15
+    },
+    {
+      "symbol": "P c c 2",
+      "hall": " P 2 -2c",
+      "space_group": 27,
+      "class_id": 16
+    },
+    {
+      "symbol": "P 2 a a",
+      "hall": " P -2a 2",
+      "space_group": 27,
+      "class_id": 16
+    },
+    {
+      "symbol": "P b 2 b",
+      "hall": " P -2b -2b",
+      "space_group": 27,
+      "class_id": 16
+    },
+    {
+      "symbol": "P m a 2",
+      "hall": " P 2 -2a",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P b m 2",
+      "hall": " P 2 -2b",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P 2 m b",
+      "hall": " P -2b 2",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P 2 c m",
+      "hall": " P -2c 2",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P c 2 m",
+      "hall": " P -2c -2c",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P m 2 a",
+      "hall": " P -2a -2a",
+      "space_group": 28,
+      "class_id": 15
+    },
+    {
+      "symbol": "P c a 21",
+      "hall": " P 2c -2ac",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P b c 21",
+      "hall": " P 2c -2b",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P 21 a b",
+      "hall": " P -2b 2a",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P 21 c a",
+      "hall": " P -2ac 2a",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P c 21 b",
+      "hall": " P -2bc -2c",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P b 21 a",
+      "hall": " P -2a -2ab",
+      "space_group": 29,
+      "class_id": 17
+    },
+    {
+      "symbol": "P n c 2",
+      "hall": " P 2 -2bc",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P c n 2",
+      "hall": " P 2 -2ac",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P 2 n a",
+      "hall": " P -2ac 2",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P 2 a n",
+      "hall": " P -2ab 2",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P b 2 n",
+      "hall": " P -2ab -2ab",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P n 2 b",
+      "hall": " P -2bc -2bc",
+      "space_group": 30,
+      "class_id": 18
+    },
+    {
+      "symbol": "P m n 21",
+      "hall": " P 2ac -2",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P n m 21",
+      "hall": " P 2bc -2bc",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P 21 m n",
+      "hall": " P -2ab 2ab",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P 21 n m",
+      "hall": " P -2 2ac",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P n 21 m",
+      "hall": " P -2 -2bc",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P m 21 n",
+      "hall": " P -2ab -2",
+      "space_group": 31,
+      "class_id": 19
+    },
+    {
+      "symbol": "P b a 2",
+      "hall": " P 2 -2ab",
+      "space_group": 32,
+      "class_id": 20
+    },
+    {
+      "symbol": "P 2 c b",
+      "hall": " P -2bc 2",
+      "space_group": 32,
+      "class_id": 20
+    },
+    {
+      "symbol": "P c 2 a",
+      "hall": " P -2ac -2ac",
+      "space_group": 32,
+      "class_id": 20
+    },
+    {
+      "symbol": "P n a 21",
+      "hall": " P 2c -2n",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P b n 21",
+      "hall": " P 2c -2ab",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P 21 n b",
+      "hall": " P -2bc 2a",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P 21 c n",
+      "hall": " P -2n 2a",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P c 21 n",
+      "hall": " P -2n -2ac",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P n 21 a",
+      "hall": " P -2ac -2n",
+      "space_group": 33,
+      "class_id": 21
+    },
+    {
+      "symbol": "P n n 2",
+      "hall": " P 2 -2n",
+      "space_group": 34,
+      "class_id": 22
+    },
+    {
+      "symbol": "P 2 n n",
+      "hall": " P -2n 2",
+      "space_group": 34,
+      "class_id": 22
+    },
+    {
+      "symbol": "P n 2 n",
+      "hall": " P -2n -2n",
+      "space_group": 34,
+      "class_id": 22
+    },
+    {
+      "symbol": "C m m 2",
+      "hall": " C 2 -2",
+      "space_group": 35,
+      "class_id": 12
+    },
+    {
+      "symbol": "A 2 m m",
+      "hall": " A -2 2",
+      "space_group": 35,
+      "class_id": 12
+    },
+    {
+      "symbol": "B m 2 m",
+      "hall": " B -2 -2",
+      "space_group": 35,
+      "class_id": 12
+    },
+    {
+      "symbol": "C m c 21",
+      "hall": " C 2c -2",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "C c m 21",
+      "hall": " C 2c -2c",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "A 21 m a",
+      "hall": " A -2a 2a",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "A 21 a m",
+      "hall": " A -2 2a",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "B b 21 m",
+      "hall": " B -2 -2b",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "B m 21 b",
+      "hall": " B -2b -2",
+      "space_group": 36,
+      "class_id": 23
+    },
+    {
+      "symbol": "C c c 2",
+      "hall": " C 2 -2c",
+      "space_group": 37,
+      "class_id": 24
+    },
+    {
+      "symbol": "A 2 a a",
+      "hall": " A -2a 2",
+      "space_group": 37,
+      "class_id": 24
+    },
+    {
+      "symbol": "B b 2 b",
+      "hall": " B -2b -2b",
+      "space_group": 37,
+      "class_id": 24
+    },
+    {
+      "symbol": "A m m 2",
+      "hall": " A 2 -2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "B m m 2",
+      "hall": " B 2 -2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "B 2 m m",
+      "hall": " B -2 2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "C 2 m m",
+      "hall": " C -2 2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "C m 2 m",
+      "hall": " C -2 -2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "A m 2 m",
+      "hall": " A -2 -2",
+      "space_group": 38,
+      "class_id": 12
+    },
+    {
+      "symbol": "A b m 2",
+      "hall": " A 2 -2b",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "B m a 2",
+      "hall": " B 2 -2a",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "B 2 c m",
+      "hall": " B -2a 2",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "C 2 m b",
+      "hall": " C -2a 2",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "C m 2 a",
+      "hall": " C -2a -2a",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "A c 2 m",
+      "hall": " A -2b -2b",
+      "space_group": 39,
+      "class_id": 25
+    },
+    {
+      "symbol": "A m a 2",
+      "hall": " A 2 -2a",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "B b m 2",
+      "hall": " B 2 -2b",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "B 2 m b",
+      "hall": " B -2b 2",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "C 2 c m",
+      "hall": " C -2c 2",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "C c 2 m",
+      "hall": " C -2c -2c",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "A m 2 a",
+      "hall": " A -2a -2a",
+      "space_group": 40,
+      "class_id": 23
+    },
+    {
+      "symbol": "A b a 2",
+      "hall": " A 2 -2ab",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "B b a 2",
+      "hall": " B 2 -2ab",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "B 2 c b",
+      "hall": " B -2ab 2",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "C 2 c b",
+      "hall": " C -2ac 2",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "C c 2 a",
+      "hall": " C -2ac -2ac",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "A c 2 a",
+      "hall": " A -2ab -2ab",
+      "space_group": 41,
+      "class_id": 26
+    },
+    {
+      "symbol": "F m m 2",
+      "hall": " F 2 -2",
+      "space_group": 42,
+      "class_id": 13
+    },
+    {
+      "symbol": "F 2 m m",
+      "hall": " F -2 2",
+      "space_group": 42,
+      "class_id": 13
+    },
+    {
+      "symbol": "F m 2 m",
+      "hall": " F -2 -2",
+      "space_group": 42,
+      "class_id": 13
+    },
+    {
+      "symbol": "F d d 2",
+      "hall": " F 2 -2d",
+      "space_group": 43,
+      "class_id": 27
+    },
+    {
+      "symbol": "F 2 d d",
+      "hall": " F -2d 2",
+      "space_group": 43,
+      "class_id": 27
+    },
+    {
+      "symbol": "F d 2 d",
+      "hall": " F -2d -2d",
+      "space_group": 43,
+      "class_id": 27
+    },
+    {
+      "symbol": "I m m 2",
+      "hall": " I 2 -2",
+      "space_group": 44,
+      "class_id": 14
+    },
+    {
+      "symbol": "I 2 m m",
+      "hall": " I -2 2",
+      "space_group": 44,
+      "class_id": 14
+    },
+    {
+      "symbol": "I m 2 m",
+      "hall": " I -2 -2",
+      "space_group": 44,
+      "class_id": 14
+    },
+    {
+      "symbol": "I b a 2",
+      "hall": " I 2 -2c",
+      "space_group": 45,
+      "class_id": 28
+    },
+    {
+      "symbol": "I 2 c b",
+      "hall": " I -2a 2",
+      "space_group": 45,
+      "class_id": 28
+    },
+    {
+      "symbol": "I c 2 a",
+      "hall": " I -2b -2b",
+      "space_group": 45,
+      "class_id": 28
+    },
+    {
+      "symbol": "I m a 2",
+      "hall": " I 2 -2a",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "I b m 2",
+      "hall": " I 2 -2b",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "I 2 m b",
+      "hall": " I -2b 2",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "I 2 c m",
+      "hall": " I -2c 2",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "I c 2 m",
+      "hall": " I -2c -2c",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "I m 2 a",
+      "hall": " I -2a -2a",
+      "space_group": 46,
+      "class_id": 29
+    },
+    {
+      "symbol": "P m m m",
+      "hall": "-P 2 2",
+      "space_group": 47,
+      "class_id": 7
+    },
+    {
+      "symbol": "P n n n :1",
+      "hall": " P 2 2 -1n",
+      "space_group": 48,
+      "class_id": 30
+    },
+    {
+      "symbol": "P n n n :2",
+      "hall": "-P 2ab 2bc",
+      "space_group": 48,
+      "class_id": 30
+    },
+    {
+      "symbol": "P c c m",
+      "hall": "-P 2 2c",
+      "space_group": 49,
+      "class_id": 16
+    },
+    {
+      "symbol": "P m a a",
+      "hall": "-P 2a 2",
+      "space_group": 49,
+      "class_id": 16
+    },
+    {
+      "symbol": "P b m b",
+      "hall": "-P 2b 2b",
+      "space_group": 49,
+      "class_id": 16
+    },
+    {
+      "symbol": "P b a n :1",
+      "hall": " P 2 2 -1ab",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P b a n :2",
+      "hall": "-P 2ab 2b",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P n c b :1",
+      "hall": " P 2 2 -1bc",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P n c b :2",
+      "hall": "-P 2b 2bc",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P c n a :1",
+      "hall": " P 2 2 -1ac",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P c n a :2",
+      "hall": "-P 2a 2c",
+      "space_group": 50,
+      "class_id": 31
+    },
+    {
+      "symbol": "P m m a",
+      "hall": "-P 2a 2a",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P m m b",
+      "hall": "-P 2b 2",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P b m m",
+      "hall": "-P 2 2b",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P c m m",
+      "hall": "-P 2c 2c",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P m c m",
+      "hall": "-P 2c 2",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P m a m",
+      "hall": "-P 2 2a",
+      "space_group": 51,
+      "class_id": 15
+    },
+    {
+      "symbol": "P n n a",
+      "hall": "-P 2a 2bc",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P n n b",
+      "hall": "-P 2b 2n",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P b n n",
+      "hall": "-P 2n 2b",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P c n n",
+      "hall": "-P 2ab 2c",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P n c n",
+      "hall": "-P 2ab 2n",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P n a n",
+      "hall": "-P 2n 2bc",
+      "space_group": 52,
+      "class_id": 32
+    },
+    {
+      "symbol": "P m n a",
+      "hall": "-P 2ac 2",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P n m b",
+      "hall": "-P 2bc 2bc",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P b m n",
+      "hall": "-P 2ab 2ab",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P c n m",
+      "hall": "-P 2 2ac",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P n c m",
+      "hall": "-P 2 2bc",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P m a n",
+      "hall": "-P 2ab 2",
+      "space_group": 53,
+      "class_id": 18
+    },
+    {
+      "symbol": "P c c a",
+      "hall": "-P 2a 2ac",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P c c b",
+      "hall": "-P 2b 2c",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P b a a",
+      "hall": "-P 2a 2b",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P c a a",
+      "hall": "-P 2ac 2c",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P b c b",
+      "hall": "-P 2bc 2b",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P b a b",
+      "hall": "-P 2b 2ab",
+      "space_group": 54,
+      "class_id": 33
+    },
+    {
+      "symbol": "P b a m",
+      "hall": "-P 2 2ab",
+      "space_group": 55,
+      "class_id": 20
+    },
+    {
+      "symbol": "P m c b",
+      "hall": "-P 2bc 2",
+      "space_group": 55,
+      "class_id": 20
+    },
+    {
+      "symbol": "P c m a",
+      "hall": "-P 2ac 2ac",
+      "space_group": 55,
+      "class_id": 20
+    },
+    {
+      "symbol": "P c c n",
+      "hall": "-P 2ab 2ac",
+      "space_group": 56,
+      "class_id": 34
+    },
+    {
+      "symbol": "P n a a",
+      "hall": "-P 2ac 2bc",
+      "space_group": 56,
+      "class_id": 34
+    },
+    {
+      "symbol": "P b n b",
+      "hall": "-P 2bc 2ab",
+      "space_group": 56,
+      "class_id": 34
+    },
+    {
+      "symbol": "P b c m",
+      "hall": "-P 2c 2b",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P c a m",
+      "hall": "-P 2c 2ac",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P m c a",
+      "hall": "-P 2ac 2a",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P m a b",
+      "hall": "-P 2b 2a",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P b m a",
+      "hall": "-P 2a 2ab",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P c m b",
+      "hall": "-P 2bc 2c",
+      "space_group": 57,
+      "class_id": 17
+    },
+    {
+      "symbol": "P n n m",
+      "hall": "-P 2 2n",
+      "space_group": 58,
+      "class_id": 22
+    },
+    {
+      "symbol": "P m n n",
+      "hall": "-P 2n 2",
+      "space_group": 58,
+      "class_id": 22
+    },
+    {
+      "symbol": "P n m n",
+      "hall": "-P 2n 2n",
+      "space_group": 58,
+      "class_id": 22
+    },
+    {
+      "symbol": "P m m n :1",
+      "hall": " P 2 2ab -1ab",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P m m n :2",
+      "hall": "-P 2ab 2a",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P n m m :1",
+      "hall": " P 2bc 2 -1bc",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P n m m :2",
+      "hall": "-P 2c 2bc",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P m n m :1",
+      "hall": " P 2ac 2ac -1ac",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P m n m :2",
+      "hall": "-P 2c 2a",
+      "space_group": 59,
+      "class_id": 19
+    },
+    {
+      "symbol": "P b c n",
+      "hall": "-P 2n 2ab",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P c a n",
+      "hall": "-P 2n 2c",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P n c a",
+      "hall": "-P 2a 2n",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P n a b",
+      "hall": "-P 2bc 2n",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P b n a",
+      "hall": "-P 2ac 2b",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P c n b",
+      "hall": "-P 2b 2ac",
+      "space_group": 60,
+      "class_id": 35
+    },
+    {
+      "symbol": "P b c a",
+      "hall": "-P 2ac 2ab",
+      "space_group": 61,
+      "class_id": 36
+    },
+    {
+      "symbol": "P c a b",
+      "hall": "-P 2bc 2ac",
+      "space_group": 61,
+      "class_id": 36
+    },
+    {
+      "symbol": "P n m a",
+      "hall": "-P 2ac 2n",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "P m n b",
+      "hall": "-P 2bc 2a",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "P b n m",
+      "hall": "-P 2c 2ab",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "P c m n",
+      "hall": "-P 2n 2ac",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "P m c n",
+      "hall": "-P 2n 2a",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "P n a m",
+      "hall": "-P 2c 2n",
+      "space_group": 62,
+      "class_id": 21
+    },
+    {
+      "symbol": "C m c m",
+      "hall": "-C 2c 2",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "C c m m",
+      "hall": "-C 2c 2c",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "A m m a",
+      "hall": "-A 2a 2a",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "A m a m",
+      "hall": "-A 2 2a",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "B b m m",
+      "hall": "-B 2 2b",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "B m m b",
+      "hall": "-B 2b 2",
+      "space_group": 63,
+      "class_id": 23
+    },
+    {
+      "symbol": "C m c a",
+      "hall": "-C 2ac 2",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "C c m b",
+      "hall": "-C 2ac 2ac",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "A b m a",
+      "hall": "-A 2ab 2ab",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "A c a m",
+      "hall": "-A 2 2ab",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "B b c m",
+      "hall": "-B 2 2ab",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "B m a b",
+      "hall": "-B 2ab 2",
+      "space_group": 64,
+      "class_id": 26
+    },
+    {
+      "symbol": "C m m m",
+      "hall": "-C 2 2",
+      "space_group": 65,
+      "class_id": 12
+    },
+    {
+      "symbol": "A m m m",
+      "hall": "-A 2 2",
+      "space_group": 65,
+      "class_id": 12
+    },
+    {
+      "symbol": "B m m m",
+      "hall": "-B 2 2",
+      "space_group": 65,
+      "class_id": 12
+    },
+    {
+      "symbol": "C c c m",
+      "hall": "-C 2 2c",
+      "space_group": 66,
+      "class_id": 24
+    },
+    {
+      "symbol": "A m a a",
+      "hall": "-A 2a 2",
+      "space_group": 66,
+      "class_id": 24
+    },
+    {
+      "symbol": "B b m b",
+      "hall": "-B 2b 2b",
+      "space_group": 66,
+      "class_id": 24
+    },
+    {
+      "symbol": "C m m a",
+      "hall": "-C 2a 2",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "C m m b",
+      "hall": "-C 2a 2a",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "A b m m",
+      "hall": "-A 2b 2b",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "A c m m",
+      "hall": "-A 2 2b",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "B m c m",
+      "hall": "-B 2 2a",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "B m a m",
+      "hall": "-B 2a 2",
+      "space_group": 67,
+      "class_id": 25
+    },
+    {
+      "symbol": "C c c a :1",
+      "hall": " C 2 2 -1ac",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "C c c a :2",
+      "hall": "-C 2a 2ac",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "C c c b :1",
+      "hall": " C 2 2 -1ac",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "C c c b :2",
+      "hall": "-C 2a 2c",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "A b a a :1",
+      "hall": " A 2 2 -1ab",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "A b a a :2",
+      "hall": "-A 2a 2b",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "A c a a :1",
+      "hall": " A 2 2 -1ab",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "A c a a :2",
+      "hall": "-A 2ab 2b",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "B b c b :1",
+      "hall": " B 2 2 -1ab",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "B b c b :2",
+      "hall": "-B 2ab 2b",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "B b a b :1",
+      "hall": " B 2 2 -1ab",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "B b a b :2",
+      "hall": "-B 2b 2ab",
+      "space_group": 68,
+      "class_id": 37
+    },
+    {
+      "symbol": "F m m m",
+      "hall": "-F 2 2",
+      "space_group": 69,
+      "class_id": 13
+    },
+    {
+      "symbol": "F d d d :1",
+      "hall": " F 2 2 -1d",
+      "space_group": 70,
+      "class_id": 38
+    },
+    {
+      "symbol": "F d d d :2",
+      "hall": "-F 2uv 2vw",
+      "space_group": 70,
+      "class_id": 38
+    },
+    {
+      "symbol": "I m m m",
+      "hall": "-I 2 2",
+      "space_group": 71,
+      "class_id": 14
+    },
+    {
+      "symbol": "I b a m",
+      "hall": "-I 2 2c",
+      "space_group": 72,
+      "class_id": 28
+    },
+    {
+      "symbol": "I m c b",
+      "hall": "-I 2a 2",
+      "space_group": 72,
+      "class_id": 28
+    },
+    {
+      "symbol": "I c m a",
+      "hall": "-I 2b 2b",
+      "space_group": 72,
+      "class_id": 28
+    },
+    {
+      "symbol": "I b c a",
+      "hall": "-I 2b 2c",
+      "space_group": 73,
+      "class_id": 39
+    },
+    {
+      "symbol": "I c a b",
+      "hall": "-I 2a 2b",
+      "space_group": 73,
+      "class_id": 39
+    },
+    {
+      "symbol": "I m m a",
+      "hall": "-I 2b 2",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "I m m b",
+      "hall": "-I 2a 2a",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "I b m m",
+      "hall": "-I 2c 2c",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "I c m m",
+      "hall": "-I 2 2b",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "I m c m",
+      "hall": "-I 2 2a",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "I m a m",
+      "hall": "-I 2c 2",
+      "space_group": 74,
+      "class_id": 29
+    },
+    {
+      "symbol": "P 4",
+      "hall": " P 4",
+      "space_group": 75,
+      "class_id": 40
+    },
+    {
+      "symbol": "P 41",
+      "hall": " P 4w",
+      "space_group": 76,
+      "class_id": 41
+    },
+    {
+      "symbol": "P 42",
+      "hall": " P 4c",
+      "space_group": 77,
+      "class_id": 42
+    },
+    {
+      "symbol": "P 43",
+      "hall": " P 4cw",
+      "space_group": 78,
+      "class_id": 41
+    },
+    {
+      "symbol": "I 4",
+      "hall": " I 4",
+      "space_group": 79,
+      "class_id": 43
+    },
+    {
+      "symbol": "I 41",
+      "hall": " I 4bw",
+      "space_group": 80,
+      "class_id": 44
+    },
+    {
+      "symbol": "P -4",
+      "hall": " P -4",
+      "space_group": 81,
+      "class_id": 40
+    },
+    {
+      "symbol": "I -4",
+      "hall": " I -4",
+      "space_group": 82,
+      "class_id": 43
+    },
+    {
+      "symbol": "P 4/m",
+      "hall": "-P 4",
+      "space_group": 83,
+      "class_id": 40
+    },
+    {
+      "symbol": "P 42/m",
+      "hall": "-P 4c",
+      "space_group": 84,
+      "class_id": 42
+    },
+    {
+      "symbol": "P 4/n :1",
+      "hall": " P 4ab -1ab",
+      "space_group": 85,
+      "class_id": 45
+    },
+    {
+      "symbol": "P 4/n :2",
+      "hall": "-P 4a",
+      "space_group": 85,
+      "class_id": 45
+    },
+    {
+      "symbol": "P 42/n :1",
+      "hall": " P 4n -1n",
+      "space_group": 86,
+      "class_id": 46
+    },
+    {
+      "symbol": "P 42/n :2",
+      "hall": "-P 4bc",
+      "space_group": 86,
+      "class_id": 46
+    },
+    {
+      "symbol": "I 4/m",
+      "hall": "-I 4",
+      "space_group": 87,
+      "class_id": 43
+    },
+    {
+      "symbol": "I 41/a :1",
+      "hall": " I 4bw -1bw",
+      "space_group": 88,
+      "class_id": 47
+    },
+    {
+      "symbol": "I 41/a :2",
+      "hall": "-I 4ad",
+      "space_group": 88,
+      "class_id": 47
+    },
+    {
+      "symbol": "P 4 2 2",
+      "hall": " P 4 2",
+      "space_group": 89,
+      "class_id": 48
+    },
+    {
+      "symbol": "P 4 21 2",
+      "hall": " P 4ab 2ab",
+      "space_group": 90,
+      "class_id": 49
+    },
+    {
+      "symbol": "P 41 2 2",
+      "hall": " P 4w 2c",
+      "space_group": 91,
+      "class_id": 50
+    },
+    {
+      "symbol": "P 41 21 2",
+      "hall": " P 4abw 2nw",
+      "space_group": 92,
+      "class_id": 51
+    },
+    {
+      "symbol": "P 42 2 2",
+      "hall": " P 4c 2",
+      "space_group": 93,
+      "class_id": 52
+    },
+    {
+      "symbol": "P 42 21 2",
+      "hall": " P 4n 2n",
+      "space_group": 94,
+      "class_id": 53
+    },
+    {
+      "symbol": "P 43 2 2",
+      "hall": " P 4cw 2c",
+      "space_group": 95,
+      "class_id": 50
+    },
+    {
+      "symbol": "P 43 21 2",
+      "hall": " P 4nw 2abw",
+      "space_group": 96,
+      "class_id": 51
+    },
+    {
+      "symbol": "I 4 2 2",
+      "hall": " I 4 2",
+      "space_group": 97,
+      "class_id": 54
+    },
+    {
+      "symbol": "I 41 2 2",
+      "hall": " I 4bw 2bw",
+      "space_group": 98,
+      "class_id": 55
+    },
+    {
+      "symbol": "P 4 m m",
+      "hall": " P 4 -2",
+      "space_group": 99,
+      "class_id": 48
+    },
+    {
+      "symbol": "P 4 b m",
+      "hall": " P 4 -2ab",
+      "space_group": 100,
+      "class_id": 56
+    },
+    {
+      "symbol": "P 42 c m",
+      "hall": " P 4c -2c",
+      "space_group": 101,
+      "class_id": 57
+    },
+    {
+      "symbol": "P 42 n m",
+      "hall": " P 4n -2n",
+      "space_group": 102,
+      "class_id": 58
+    },
+    {
+      "symbol": "P 4 c c",
+      "hall": " P 4 -2c",
+      "space_group": 103,
+      "class_id": 59
+    },
+    {
+      "symbol": "P 4 n c",
+      "hall": " P 4 -2n",
+      "space_group": 104,
+      "class_id": 60
+    },
+    {
+      "symbol": "P 42 m c",
+      "hall": " P 4c -2",
+      "space_group": 105,
+      "class_id": 61
+    },
+    {
+      "symbol": "P 42 b c",
+      "hall": " P 4c -2ab",
+      "space_group": 106,
+      "class_id": 62
+    },
+    {
+      "symbol": "I 4 m m",
+      "hall": " I 4 -2",
+      "space_group": 107,
+      "class_id": 54
+    },
+    {
+      "symbol": "I 4 c m",
+      "hall": " I 4 -2c",
+      "space_group": 108,
+      "class_id": 63
+    },
+    {
+      "symbol": "I 41 m d",
+      "hall": " I 4bw -2",
+      "space_group": 109,
+      "class_id": 64
+    },
+    {
+      "symbol": "I 41 c d",
+      "hall": " I 4bw -2c",
+      "space_group": 110,
+      "class_id": 65
+    },
+    {
+      "symbol": "P -4 2 m",
+      "hall": " P -4 2",
+      "space_group": 111,
+      "class_id": 48
+    },
+    {
+      "symbol": "P -4 2 c",
+      "hall": " P -4 2c",
+      "space_group": 112,
+      "class_id": 61
+    },
+    {
+      "symbol": "P -4 21 m",
+      "hall": " P -4 2ab",
+      "space_group": 113,
+      "class_id": 49
+    },
+    {
+      "symbol": "P -4 21 c",
+      "hall": " P -4 2n",
+      "space_group": 114,
+      "class_id": 66
+    },
+    {
+      "symbol": "P -4 m 2",
+      "hall": " P -4 -2",
+      "space_group": 115,
+      "class_id": 48
+    },
+    {
+      "symbol": "P -4 c 2",
+      "hall": " P -4 -2c",
+      "space_group": 116,
+      "class_id": 57
+    },
+    {
+      "symbol": "P -4 b 2",
+      "hall": " P -4 -2ab",
+      "space_group": 117,
+      "class_id": 56
+    },
+    {
+      "symbol": "P -4 n 2",
+      "hall": " P -4 -2n",
+      "space_group": 118,
+      "class_id": 58
+    },
+    {
+      "symbol": "I -4 m 2",
+      "hall": " I -4 -2",
+      "space_group": 119,
+      "class_id": 54
+    },
+    {
+      "symbol": "I -4 c 2",
+      "hall": " I -4 -2c",
+      "space_group": 120,
+      "class_id": 63
+    },
+    {
+      "symbol": "I -4 2 m",
+      "hall": " I -4 2",
+      "space_group": 121,
+      "class_id": 54
+    },
+    {
+      "symbol": "I -4 2 d",
+      "hall": " I -4 2bw",
+      "space_group": 122,
+      "class_id": 64
+    },
+    {
+      "symbol": "P 4/m m m",
+      "hall": "-P 4 2",
+      "space_group": 123,
+      "class_id": 48
+    },
+    {
+      "symbol": "P 4/m c c",
+      "hall": "-P 4 2c",
+      "space_group": 124,
+      "class_id": 59
+    },
+    {
+      "symbol": "P 4/n b m :1",
+      "hall": " P 4 2 -1ab",
+      "space_group": 125,
+      "class_id": 67
+    },
+    {
+      "symbol": "P 4/n b m :2",
+      "hall": "-P 4a 2b",
+      "space_group": 125,
+      "class_id": 67
+    },
+    {
+      "symbol": "P 4/n n c :1",
+      "hall": " P 4 2 -1n",
+      "space_group": 126,
+      "class_id": 68
+    },
+    {
+      "symbol": "P 4/n n c :2",
+      "hall": "-P 4a 2bc",
+      "space_group": 126,
+      "class_id": 68
+    },
+    {
+      "symbol": "P 4/m b m",
+      "hall": "-P 4 2ab",
+      "space_group": 127,
+      "class_id": 56
+    },
+    {
+      "symbol": "P 4/m n c",
+      "hall": "-P 4 2n",
+      "space_group": 128,
+      "class_id": 60
+    },
+    {
+      "symbol": "P 4/n m m :1",
+      "hall": " P 4ab 2ab -1ab",
+      "space_group": 129,
+      "class_id": 69
+    },
+    {
+      "symbol": "P 4/n m m :2",
+      "hall": "-P 4a 2a",
+      "space_group": 129,
+      "class_id": 69
+    },
+    {
+      "symbol": "P 4/n c c :1",
+      "hall": " P 4ab 2n -1ab",
+      "space_group": 130,
+      "class_id": 70
+    },
+    {
+      "symbol": "P 4/n c c :2",
+      "hall": "-P 4a 2ac",
+      "space_group": 130,
+      "class_id": 70
+    },
+    {
+      "symbol": "P 42/m m c",
+      "hall": "-P 4c 2",
+      "space_group": 131,
+      "class_id": 61
+    },
+    {
+      "symbol": "P 42/m c m",
+      "hall": "-P 4c 2c",
+      "space_group": 132,
+      "class_id": 57
+    },
+    {
+      "symbol": "P 42/n b c :1",
+      "hall": " P 4n 2c -1n",
+      "space_group": 133,
+      "class_id": 71
+    },
+    {
+      "symbol": "P 42/n b c :2",
+      "hall": "-P 4ac 2b",
+      "space_group": 133,
+      "class_id": 71
+    },
+    {
+      "symbol": "P 42/n n m :1",
+      "hall": " P 4n 2 -1n",
+      "space_group": 134,
+      "class_id": 72
+    },
+    {
+      "symbol": "P 42/n n m :2",
+      "hall": "-P 4ac 2bc",
+      "space_group": 134,
+      "class_id": 72
+    },
+    {
+      "symbol": "P 42/m b c",
+      "hall": "-P 4c 2ab",
+      "space_group": 135,
+      "class_id": 62
+    },
+    {
+      "symbol": "P 42/m n m",
+      "hall": "-P 4n 2n",
+      "space_group": 136,
+      "class_id": 58
+    },
+    {
+      "symbol": "P 42/n m c :1",
+      "hall": " P 4n 2n -1n",
+      "space_group": 137,
+      "class_id": 73
+    },
+    {
+      "symbol": "P 42/n m c :2",
+      "hall": "-P 4ac 2a",
+      "space_group": 137,
+      "class_id": 73
+    },
+    {
+      "symbol": "P 42/n c m :1",
+      "hall": " P 4n 2ab -1n",
+      "space_group": 138,
+      "class_id": 74
+    },
+    {
+      "symbol": "P 42/n c m :2",
+      "hall": "-P 4ac 2ac",
+      "space_group": 138,
+      "class_id": 74
+    },
+    {
+      "symbol": "I 4/m m m",
+      "hall": "-I 4 2",
+      "space_group": 139,
+      "class_id": 54
+    },
+    {
+      "symbol": "I 4/m c m",
+      "hall": "-I 4 2c",
+      "space_group": 140,
+      "class_id": 63
+    },
+    {
+      "symbol": "I 41/a m d :1",
+      "hall": " I 4bw 2bw -1bw",
+      "space_group": 141,
+      "class_id": 75
+    },
+    {
+      "symbol": "I 41/a m d :2",
+      "hall": "-I 4bd 2",
+      "space_group": 141,
+      "class_id": 75
+    },
+    {
+      "symbol": "I 41/a c d :1",
+      "hall": " I 4bw 2aw -1bw",
+      "space_group": 142,
+      "class_id": 76
+    },
+    {
+      "symbol": "I 41/a c d :2",
+      "hall": "-I 4bd 2c",
+      "space_group": 142,
+      "class_id": 76
+    },
+    {
+      "symbol": "P 3",
+      "hall": " P 3",
+      "space_group": 143,
+      "class_id": 77
+    },
+    {
+      "symbol": "P 31",
+      "hall": " P 31",
+      "space_group": 144,
+      "class_id": 78
+    },
+    {
+      "symbol": "P 32",
+      "hall": " P 32",
+      "space_group": 145,
+      "class_id": 78
+    },
+    {
+      "symbol": "R 3 :H",
+      "hall": " R 3",
+      "space_group": 146,
+      "class_id": 79
+    },
+    {
+      "symbol": "R 3 :R",
+      "hall": " P 3*",
+      "space_group": 146,
+      "class_id": 79
+    },
+    {
+      "symbol": "P -3",
+      "hall": "-P 3",
+      "space_group": 147,
+      "class_id": 77
+    },
+    {
+      "symbol": "R -3 :H",
+      "hall": "-R 3",
+      "space_group": 148,
+      "class_id": 79
+    },
+    {
+      "symbol": "R -3 :R",
+      "hall": "-P 3*",
+      "space_group": 148,
+      "class_id": 79
+    },
+    {
+      "symbol": "P 3 1 2",
+      "hall": " P 3 2",
+      "space_group": 149,
+      "class_id": 80
+    },
+    {
+      "symbol": "P 3 2 1",
+      "hall": " P 3 2\"",
+      "space_group": 150,
+      "class_id": 81
+    },
+    {
+      "symbol": "P 31 1 2",
+      "hall": " P 31 2 (0 0 4)",
+      "space_group": 151,
+      "class_id": 82
+    },
+    {
+      "symbol": "P 31 2 1",
+      "hall": " P 31 2\"",
+      "space_group": 152,
+      "class_id": 83
+    },
+    {
+      "symbol": "P 32 1 2",
+      "hall": " P 32 2 (0 0 2)",
+      "space_group": 153,
+      "class_id": 82
+    },
+    {
+      "symbol": "P 32 2 1",
+      "hall": " P 32 2\"",
+      "space_group": 154,
+      "class_id": 83
+    },
+    {
+      "symbol": "R 3 2 :H",
+      "hall": " R 3 2\"",
+      "space_group": 155,
+      "class_id": 84
+    },
+    {
+      "symbol": "R 3 2 :R",
+      "hall": " P 3* 2",
+      "space_group": 155,
+      "class_id": 84
+    },
+    {
+      "symbol": "P 3 m 1",
+      "hall": " P 3 -2\"",
+      "space_group": 156,
+      "class_id": 81
+    },
+    {
+      "symbol": "P 3 1 m",
+      "hall": " P 3 -2",
+      "space_group": 157,
+      "class_id": 80
+    },
+    {
+      "symbol": "P 3 c 1",
+      "hall": " P 3 -2\"c",
+      "space_group": 158,
+      "class_id": 85
+    },
+    {
+      "symbol": "P 3 1 c",
+      "hall": " P 3 -2c",
+      "space_group": 159,
+      "class_id": 86
+    },
+    {
+      "symbol": "R 3 m :H",
+      "hall": " R 3 -2\"",
+      "space_group": 160,
+      "class_id": 84
+    },
+    {
+      "symbol": "R 3 m :R",
+      "hall": " P 3* -2",
+      "space_group": 160,
+      "class_id": 84
+    },
+    {
+      "symbol": "R 3 c :H",
+      "hall": " R 3 -2\"c",
+      "space_group": 161,
+      "class_id": 87
+    },
+    {
+      "symbol": "R 3 c :R",
+      "hall": " P 3* -2n",
+      "space_group": 161,
+      "class_id": 87
+    },
+    {
+      "symbol": "P -3 1 m",
+      "hall": "-P 3 2",
+      "space_group": 162,
+      "class_id": 80
+    },
+    {
+      "symbol": "P -3 1 c",
+      "hall": "-P 3 2c",
+      "space_group": 163,
+      "class_id": 86
+    },
+    {
+      "symbol": "P -3 m 1",
+      "hall": "-P 3 2\"",
+      "space_group": 164,
+      "class_id": 81
+    },
+    {
+      "symbol": "P -3 c 1",
+      "hall": "-P 3 2\"c",
+      "space_group": 165,
+      "class_id": 85
+    },
+    {
+      "symbol": "R -3 m :H",
+      "hall": "-R 3 2\"",
+      "space_group": 166,
+      "class_id": 84
+    },
+    {
+      "symbol": "R -3 m :R",
+      "hall": "-P 3* 2",
+      "space_group": 166,
+      "class_id": 84
+    },
+    {
+      "symbol": "R -3 c :H",
+      "hall": "-R 3 2\"c",
+      "space_group": 167,
+      "class_id": 87
+    },
+    {
+      "symbol": "R -3 c :R",
+      "hall": "-P 3* 2n",
+      "space_group": 167,
+      "class_id": 87
+    },
+    {
+      "symbol": "P 6",
+      "hall": " P 6",
+      "space_group": 168,
+      "class_id": 88
+    },
+    {
+      "symbol": "P 61",
+      "hall": " P 61",
+      "space_group": 169,
+      "class_id": 89
+    },
+    {
+      "symbol": "P 65",
+      "hall": " P 65",
+      "space_group": 170,
+      "class_id": 89
+    },
+    {
+      "symbol": "P 62",
+      "hall": " P 62",
+      "space_group": 171,
+      "class_id": 90
+    },
+    {
+      "symbol": "P 64",
+      "hall": " P 64",
+      "space_group": 172,
+      "class_id": 90
+    },
+    {
+      "symbol": "P 63",
+      "hall": " P 6c",
+      "space_group": 173,
+      "class_id": 91
+    },
+    {
+      "symbol": "P -6",
+      "hall": " P -6",
+      "space_group": 174,
+      "class_id": 88
+    },
+    {
+      "symbol": "P 6/m",
+      "hall": "-P 6",
+      "space_group": 175,
+      "class_id": 88
+    },
+    {
+      "symbol": "P 63/m",
+      "hall": "-P 6c",
+      "space_group": 176,
+      "class_id": 91
+    },
+    {
+      "symbol": "P 6 2 2",
+      "hall": " P 6 2",
+      "space_group": 177,
+      "class_id": 92
+    },
+    {
+      "symbol": "P 61 2 2",
+      "hall": " P 61 2 (0 0 5)",
+      "space_group": 178,
+      "class_id": 93
+    },
+    {
+      "symbol": "P 65 2 2",
+      "hall": " P 65 2 (0 0 1)",
+      "space_group": 179,
+      "class_id": 93
+    },
+    {
+      "symbol": "P 62 2 2",
+      "hall": " P 62 2 (0 0 4)",
+      "space_group": 180,
+      "class_id": 94
+    },
+    {
+      "symbol": "P 64 2 2",
+      "hall": " P 64 2 (0 0 2)",
+      "space_group": 181,
+      "class_id": 94
+    },
+    {
+      "symbol": "P 63 2 2",
+      "hall": " P 6c 2c",
+      "space_group": 182,
+      "class_id": 95
+    },
+    {
+      "symbol": "P 6 m m",
+      "hall": " P 6 -2",
+      "space_group": 183,
+      "class_id": 92
+    },
+    {
+      "symbol": "P 6 c c",
+      "hall": " P 6 -2c",
+      "space_group": 184,
+      "class_id": 96
+    },
+    {
+      "symbol": "P 63 c m",
+      "hall": " P 6c -2",
+      "space_group": 185,
+      "class_id": 97
+    },
+    {
+      "symbol": "P 63 m c",
+      "hall": " P 6c -2c",
+      "space_group": 186,
+      "class_id": 98
+    },
+    {
+      "symbol": "P -6 m 2",
+      "hall": " P -6 2",
+      "space_group": 187,
+      "class_id": 92
+    },
+    {
+      "symbol": "P -6 c 2",
+      "hall": " P -6c 2",
+      "space_group": 188,
+      "class_id": 97
+    },
+    {
+      "symbol": "P -6 2 m",
+      "hall": " P -6 -2",
+      "space_group": 189,
+      "class_id": 92
+    },
+    {
+      "symbol": "P -6 2 c",
+      "hall": " P -6c -2c",
+      "space_group": 190,
+      "class_id": 98
+    },
+    {
+      "symbol": "P 6/m m m",
+      "hall": "-P 6 2",
+      "space_group": 191,
+      "class_id": 92
+    },
+    {
+      "symbol": "P 6/m c c",
+      "hall": "-P 6 2c",
+      "space_group": 192,
+      "class_id": 96
+    },
+    {
+      "symbol": "P 63/m c m",
+      "hall": "-P 6c 2",
+      "space_group": 193,
+      "class_id": 97
+    },
+    {
+      "symbol": "P 63/m m c",
+      "hall": "-P 6c 2c",
+      "space_group": 194,
+      "class_id": 98
+    },
+    {
+      "symbol": "P 2 3",
+      "hall": " P 2 2 3",
+      "space_group": 195,
+      "class_id": 99
+    },
+    {
+      "symbol": "F 2 3",
+      "hall": " F 2 2 3",
+      "space_group": 196,
+      "class_id": 100
+    },
+    {
+      "symbol": "I 2 3",
+      "hall": " I 2 2 3",
+      "space_group": 197,
+      "class_id": 101
+    },
+    {
+      "symbol": "P 21 3",
+      "hall": " P 2ac 2ab 3",
+      "space_group": 198,
+      "class_id": 102
+    },
+    {
+      "symbol": "I 21 3",
+      "hall": " I 2b 2c 3",
+      "space_group": 199,
+      "class_id": 101
+    },
+    {
+      "symbol": "P m -3",
+      "hall": "-P 2 2 3",
+      "space_group": 200,
+      "class_id": 99
+    },
+    {
+      "symbol": "P n -3 :1",
+      "hall": " P 2 2 3 -1n",
+      "space_group": 201,
+      "class_id": 103
+    },
+    {
+      "symbol": "P n -3 :2",
+      "hall": "-P 2ab 2bc 3",
+      "space_group": 201,
+      "class_id": 103
+    },
+    {
+      "symbol": "F m -3",
+      "hall": "-F 2 2 3",
+      "space_group": 202,
+      "class_id": 100
+    },
+    {
+      "symbol": "F d -3 :1",
+      "hall": " F 2 2 3 -1d",
+      "space_group": 203,
+      "class_id": 104
+    },
+    {
+      "symbol": "F d -3 :2",
+      "hall": "-F 2uv 2vw 3",
+      "space_group": 203,
+      "class_id": 104
+    },
+    {
+      "symbol": "I m -3",
+      "hall": "-I 2 2 3",
+      "space_group": 204,
+      "class_id": 101
+    },
+    {
+      "symbol": "P a -3",
+      "hall": "-P 2ac 2ab 3",
+      "space_group": 205,
+      "class_id": 105
+    },
+    {
+      "symbol": "I a -3",
+      "hall": "-I 2b 2c 3",
+      "space_group": 206,
+      "class_id": 106
+    },
+    {
+      "symbol": "P 4 3 2",
+      "hall": " P 4 2 3",
+      "space_group": 207,
+      "class_id": 107
+    },
+    {
+      "symbol": "P 42 3 2",
+      "hall": " P 4n 2 3",
+      "space_group": 208,
+      "class_id": 108
+    },
+    {
+      "symbol": "F 4 3 2",
+      "hall": " F 4 2 3",
+      "space_group": 209,
+      "class_id": 109
+    },
+    {
+      "symbol": "F 41 3 2",
+      "hall": " F 4d 2 3",
+      "space_group": 210,
+      "class_id": 110
+    },
+    {
+      "symbol": "I 4 3 2",
+      "hall": " I 4 2 3",
+      "space_group": 211,
+      "class_id": 111
+    },
+    {
+      "symbol": "P 43 3 2",
+      "hall": " P 4acd 2ab 3",
+      "space_group": 212,
+      "class_id": 112
+    },
+    {
+      "symbol": "P 41 3 2",
+      "hall": " P 4bd 2ab 3",
+      "space_group": 213,
+      "class_id": 112
+    },
+    {
+      "symbol": "I 41 3 2",
+      "hall": " I 4bd 2c 3",
+      "space_group": 214,
+      "class_id": 113
+    },
+    {
+      "symbol": "P -4 3 m",
+      "hall": " P -4 2 3",
+      "space_group": 215,
+      "class_id": 107
+    },
+    {
+      "symbol": "F -4 3 m",
+      "hall": " F -4 2 3",
+      "space_group": 216,
+      "class_id": 109
+    },
+    {
+      "symbol": "I -4 3 m",
+      "hall": " I -4 2 3",
+      "space_group": 217,
+      "class_id": 111
+    },
+    {
+      "symbol": "P -4 3 n",
+      "hall": " P -4n 2 3",
+      "space_group": 218,
+      "class_id": 114
+    },
+    {
+      "symbol": "F -4 3 c",
+      "hall": " F -4a 2 3",
+      "space_group": 219,
+      "class_id": 115
+    },
+    {
+      "symbol": "I -4 3 d",
+      "hall": " I -4bd 2c 3",
+      "space_group": 220,
+      "class_id": 116
+    },
+    {
+      "symbol": "P m -3 m",
+      "hall": "-P 4 2 3",
+      "space_group": 221,
+      "class_id": 107
+    },
+    {
+      "symbol": "P n -3 n :1",
+      "hall": " P 4 2 3 -1n",
+      "space_group": 222,
+      "class_id": 117
+    },
+    {
+      "symbol": "P n -3 n :2",
+      "hall": "-P 4a 2bc 3",
+      "space_group": 222,
+      "class_id": 117
+    },
+    {
+      "symbol": "P m -3 n",
+      "hall": "-P 4n 2 3",
+      "space_group": 223,
+      "class_id": 114
+    },
+    {
+      "symbol": "P n -3 m :1",
+      "hall": " P 4n 2 3 -1n",
+      "space_group": 224,
+      "class_id": 118
+    },
+    {
+      "symbol": "P n -3 m :2",
+      "hall": "-P 4bc 2bc 3",
+      "space_group": 224,
+      "class_id": 118
+    },
+    {
+      "symbol": "F m -3 m",
+      "hall": "-F 4 2 3",
+      "space_group": 225,
+      "class_id": 109
+    },
+    {
+      "symbol": "F m -3 c",
+      "hall": "-F 4a 2 3",
+      "space_group": 226,
+      "class_id": 115
+    },
+    {
+      "symbol": "F d -3 m :1",
+      "hall": " F 4d 2 3 -1d",
+      "space_group": 227,
+      "class_id": 119
+    },
+    {
+      "symbol": "F d -3 m :2",
+      "hall": "-F 4vw 2vw 3",
+      "space_group": 227,
+      "class_id": 119
+    },
+    {
+      "symbol": "F d -3 c :1",
+      "hall": " F 4d 2 3 -1ad",
+      "space_group": 228,
+      "class_id": 120
+    },
+    {
+      "symbol": "F d -3 c :2",
+      "hall": "-F 4ud 2vw 3",
+      "space_group": 228,
+      "class_id": 120
+    },
+    {
+      "symbol": "I m -3 m",
+      "hall": "-I 4 2 3",
+      "space_group": 229,
+      "class_id": 111
+    },
+    {
+      "symbol": "I a -3 d",
+      "hall": "-I 4bd 2c 3",
+      "space_group": 230,
+      "class_id": 121
+    }
+  ],
+  "source": {
+    "library_table": "cctbx/sgtbx/sys_abs_equiv.py",
+    "table_sha256": "20f62a32d9a457bc77d94ca6206f92d9de8978de800f1d8216a2ae81aa15cfcc",
+    "definition": "International Tables for Crystallography A (2006), section 3.1.5",
+    "definition_url": "https://onlinelibrary.wiley.com/iucr/itc/Ab/ch3o1v0001/sec3o1o5/",
+    "reference_table_url": "https://onlinelibrary.wiley.com/iucr/itc/Ab/ch3o1v0001/sec3o1o4/",
+    "construction": "Intersect CCTBX setting-merged systematic-absence classes with Laue classes; IDs sort by smallest SG number."
+  }
+}

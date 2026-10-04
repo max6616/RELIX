@@ -1,0 +1,444 @@
+{
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 89,
+      "sha256": "e5b2de014d60add7f00486158e000f8619d7640493f051cef973b71d838dd044"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 564,
+      "sha256": "ed4b346d186df94738c59494ca039e4b7d6c4f98553b7f577befb0bd37ac59de"
+    },
+    {
+      "path": "DATA_FORMAT.md",
+      "bytes": 2372,
+      "sha256": "7332d1b0ae29c5af6a6fec071777847946bbddbb281355f388d409f06b986d7f"
+    },
+    {
+      "path": "ENVIRONMENT_TESTED.json",
+      "bytes": 746,
+      "sha256": "c2e8e9a386c480f6a7fa067dee8f85da3ef4ebc3ca33f41339c95d6c4b106c91"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1068,
+      "sha256": "2505f754514e6e9f4215df7a8845cfc9518b272725e9a54a41a4806b1f1e8a59"
+    },
+    {
+      "path": "MODEL_LICENSE",
+      "bytes": 282,
+      "sha256": "ff01f860b8d0ecae0f4ca8dcbf043efb8ac01ab37d2416f63504ec2f7d701c13"
+    },
+    {
+      "path": "README.md",
+      "bytes": 5793,
+      "sha256": "3ca4349950e71806c363dabb22ff8a6e68108493ab88995cba7e72186e3bcd74"
+    },
+    {
+      "path": "RELIX/lattice_aligned/__init__.py",
+      "bytes": 44,
+      "sha256": "3c5e5f81e4fe01b9fe4757fea4c164e637b01bdde5ff369802e40e5faf5289dc"
+    },
+    {
+      "path": "RELIX/lattice_aligned/assets/registry.json",
+      "bytes": 89671,
+      "sha256": "275da7d91a9f4478baa294890b6ee8c45cb55a3605f4c267712d9644056f039b"
+    },
+    {
+      "path": "RELIX/lattice_aligned/assets/space_group_targets.json",
+      "bytes": 10157,
+      "sha256": "3b858405334e1ed79ba4a3e387a2ef55317f2baf089d9eff0463b7eaa28fa9d5"
+    },
+    {
+      "path": "RELIX/lattice_aligned/assets/symmetry_122.json",
+      "bytes": 101575,
+      "sha256": "5b134ebf7d4e487c503bcf14fa56ced64da0fb7c4d47b9b76f11d8215ceffa98"
+    },
+    {
+      "path": "RELIX/lattice_aligned/candidates.py",
+      "bytes": 2091,
+      "sha256": "10e08838ef61ef6a74da337f3cddfb51c75fc088cd63095708cd73fd49174593"
+    },
+    {
+      "path": "RELIX/lattice_aligned/features.py",
+      "bytes": 6783,
+      "sha256": "1b5aa817992ec410b2c5ebef0cb98695bd98e2762e5c257ea07032d73feca0b2"
+    },
+    {
+      "path": "RELIX/lattice_aligned/reference_geometry.py",
+      "bytes": 11788,
+      "sha256": "71cfcba3afea7ce2070bb770e28ac76fb37dfb9bf04871fedec8555047c05047"
+    },
+    {
+      "path": "RELIX/lattice_relation/__init__.py",
+      "bytes": 44,
+      "sha256": "3c5e5f81e4fe01b9fe4757fea4c164e637b01bdde5ff369802e40e5faf5289dc"
+    },
+    {
+      "path": "RELIX/lattice_relation/assets/nonanomalous_mirror_classes.json",
+      "bytes": 5596,
+      "sha256": "da49b408b2cfd961ba912c2e299ea2f05064edafa41cb36af1b70ec24f6783c5"
+    },
+    {
+      "path": "RELIX/lattice_relation/assets/wilson_classes.json",
+      "bytes": 5217,
+      "sha256": "b2a3cd0d9975a45aa4317e956db5307e16573617909c332072df7766640b5590"
+    },
+    {
+      "path": "RELIX/lattice_relation/batched_symmetry_orbits.py",
+      "bytes": 1719,
+      "sha256": "3336e5a81438c9c453d72401a4e98556bc714721ef7cf5d681e3cddd80c8bd8d"
+    },
+    {
+      "path": "RELIX/lattice_relation/budgeted_symmetry.py",
+      "bytes": 3592,
+      "sha256": "e120d4e349ebef822cc77972b6b6c72b04627d22b2aeb421a5f4c213be0e2834"
+    },
+    {
+      "path": "RELIX/lattice_relation/candidate_ranker.py",
+      "bytes": 3133,
+      "sha256": "597c7462cb744d9052323dff6de14f976ca2aa92850eb5abc1edd08a551a4e73"
+    },
+    {
+      "path": "RELIX/lattice_relation/classical_control.py",
+      "bytes": 1130,
+      "sha256": "bb61332f69215ede91054ee0d1ac002b008d28aaaa5db5ade96d2955841ead1f"
+    },
+    {
+      "path": "RELIX/lattice_relation/consensus_inference.py",
+      "bytes": 9499,
+      "sha256": "4e223590743b2d0ffc6777b3fc1602a81c3a2674abd5ef519c649803892d448a"
+    },
+    {
+      "path": "RELIX/lattice_relation/consensus_model.py",
+      "bytes": 7046,
+      "sha256": "49b0690e19139c9240968e2e43da1599c46d328347215c86476b3ed2c7259b78"
+    },
+    {
+      "path": "RELIX/lattice_relation/continuous_postprocess.py",
+      "bytes": 6216,
+      "sha256": "cabe3f0bf39763fad35181b07e52deafa2877c80fccbe1ade1317fd9d3cff6c8"
+    },
+    {
+      "path": "RELIX/lattice_relation/data.py",
+      "bytes": 2858,
+      "sha256": "bab063a3031120626662cd3be900de95bd49b29c4c22657adab080b3558414ab"
+    },
+    {
+      "path": "RELIX/lattice_relation/direct_contradiction_readout.py",
+      "bytes": 1767,
+      "sha256": "867b797f5d62782104970e280f571e17300484f944c8f129c4259820eab9480f"
+    },
+    {
+      "path": "RELIX/lattice_relation/full_inference.py",
+      "bytes": 5821,
+      "sha256": "ee4f7a79b636a9bb4feb0dc75a297ed15690844810f0d675b23ca54fe2c0f813"
+    },
+    {
+      "path": "RELIX/lattice_relation/hybrid_measured.py",
+      "bytes": 6452,
+      "sha256": "17a9f1990e2a30123574c132101b9e14943f6c28cad54f9c9a46f0c9b7a6d599"
+    },
+    {
+      "path": "RELIX/lattice_relation/inference.py",
+      "bytes": 3362,
+      "sha256": "c350b1397fd95d124fec45e3dd37e9b27962866b046dc1b64d458a4eff923942"
+    },
+    {
+      "path": "RELIX/lattice_relation/instrument.py",
+      "bytes": 6787,
+      "sha256": "47945e0e2db3f05c9888141ab39f4e7d1d5caa681f6a097eefb01e4a26c1309a"
+    },
+    {
+      "path": "RELIX/lattice_relation/instrument_refinement.py",
+      "bytes": 7048,
+      "sha256": "a9af16b1d456749f8b656040655e7bf1cebe249491f7790edcb51aba79ea90b4"
+    },
+    {
+      "path": "RELIX/lattice_relation/intensity_recording.py",
+      "bytes": 567,
+      "sha256": "21ec62d7dc13cd5cd9d3e8d8cc68bde89e083d01ffed0650bcd04bf11c3cf9af"
+    },
+    {
+      "path": "RELIX/lattice_relation/lattice_polish.py",
+      "bytes": 2283,
+      "sha256": "82243d889b1131b6dc6baa86dfdec21ac1d5375262e6613ad4f1f030ba797ff3"
+    },
+    {
+      "path": "RELIX/lattice_relation/local_intensity.py",
+      "bytes": 2980,
+      "sha256": "372f7b4bdef97337bc67c7e37a64061c375c1e1646e0a8fb997df54d9cafda63"
+    },
+    {
+      "path": "RELIX/lattice_relation/local_spacegroup.py",
+      "bytes": 501,
+      "sha256": "65acdbe1e84f1d8c5bfe488c03986ec279848af38f8765c3958df2b468bac3d2"
+    },
+    {
+      "path": "RELIX/lattice_relation/measured_inference.py",
+      "bytes": 14449,
+      "sha256": "a90a1c28b6bfc6d886731f769beb876e91cdf3e7f709377f61502822a742210e"
+    },
+    {
+      "path": "RELIX/lattice_relation/metric_projection.py",
+      "bytes": 3056,
+      "sha256": "7adcab8dc74719f2ab14012f6b4d2c4b17e44688e9c4fbce368a1fe7639a8e87"
+    },
+    {
+      "path": "RELIX/lattice_relation/model.py",
+      "bytes": 7220,
+      "sha256": "0a16e2645a750667e13d4046048971110fd2eb193147c1dd5e0be59ed8480b7c"
+    },
+    {
+      "path": "RELIX/lattice_relation/orbit_features.py",
+      "bytes": 5686,
+      "sha256": "a0a91486274d427921d781ad031050eeed469e382e9d0d8cf0f536b9682a7982"
+    },
+    {
+      "path": "RELIX/lattice_relation/orbit_symmetry.py",
+      "bytes": 8711,
+      "sha256": "e194b8b8d3c21c3882823785d78626c67749be7cfba06130e5579e38385a2241"
+    },
+    {
+      "path": "RELIX/lattice_relation/positive_reflection_evidence.py",
+      "bytes": 3385,
+      "sha256": "2e1442a157b7c4d1175a81a77c4e31e35d57c3ebd26d38533defce4d0e78716a"
+    },
+    {
+      "path": "RELIX/lattice_relation/positive_reflection_marginals.py",
+      "bytes": 1278,
+      "sha256": "880f38f22d3fc7ac3f7ac99f2613b5eb09dba720c32e6311de60df561171f7ff"
+    },
+    {
+      "path": "RELIX/lattice_relation/posterior_readout.py",
+      "bytes": 1812,
+      "sha256": "ddb88ff1eefd19c08455bbb1173c52fa29facab9cb2949ce662181b8ad05eb0e"
+    },
+    {
+      "path": "RELIX/lattice_relation/profile_features.py",
+      "bytes": 2822,
+      "sha256": "986edf44f7452e1c33de51f9fd686b2ca24a4a1f688ef04d148b7442b21ed27c"
+    },
+    {
+      "path": "RELIX/lattice_relation/profile_symmetry.py",
+      "bytes": 3935,
+      "sha256": "367bfa061981ea0baa123af644bc880b70466bf801a676e2ea41c8a07429b051"
+    },
+    {
+      "path": "RELIX/lattice_relation/reflection_grid.py",
+      "bytes": 1323,
+      "sha256": "e7afb8893f18d7c7c3c95ac81421da0f26c07b1e4f5484c0bcca8ce1c4109f63"
+    },
+    {
+      "path": "RELIX/lattice_relation/reflection_set.py",
+      "bytes": 5678,
+      "sha256": "5cc8cd561e77a370fd5b683c57e54c6d4b5761988bfc4ecbf1899caa05dc79f3"
+    },
+    {
+      "path": "RELIX/lattice_relation/relix_no_rescue.py",
+      "bytes": 4508,
+      "sha256": "94dea634884b6a303849152cc3ebae389fa8c83cbe744e1fc50e11ceab99251a"
+    },
+    {
+      "path": "RELIX/lattice_relation/robust_inference.py",
+      "bytes": 4283,
+      "sha256": "b5a9d542a8cc065be5b15f109b5559e0c953f1692a5476cfbd1bc1650a6c9a8e"
+    },
+    {
+      "path": "RELIX/lattice_relation/robust_tokens.py",
+      "bytes": 3717,
+      "sha256": "edd152c633dc5ad62af363602aea17a60784be35a8238ba4ef05162df16fe6f7"
+    },
+    {
+      "path": "RELIX/lattice_relation/stratified_tokens.py",
+      "bytes": 2203,
+      "sha256": "563594fe82080cb5c6c675f2cc3eecb8b27730204e61cac988e47670fa408f90"
+    },
+    {
+      "path": "RELIX/lattice_relation/symmetry_model.py",
+      "bytes": 2978,
+      "sha256": "6c38e30a4cd7bf035721b2e35636388fba262da4e7bbc83e56f5c47845430b20"
+    },
+    {
+      "path": "RELIX/multitask_indexer/__init__.py",
+      "bytes": 44,
+      "sha256": "3c5e5f81e4fe01b9fe4757fea4c164e637b01bdde5ff369802e40e5faf5289dc"
+    },
+    {
+      "path": "RELIX/multitask_indexer/geometry.py",
+      "bytes": 1690,
+      "sha256": "b6736725804b4d631331406deba17eafad45604257f25d10bd0f922daf7b1182"
+    },
+    {
+      "path": "RELIX/relix/__init__.py",
+      "bytes": 292,
+      "sha256": "ccab36d2209637114ff07f633d0340b2963e70d9904e3e8f6672f3c85976f3c5"
+    },
+    {
+      "path": "RELIX/relix/cli.py",
+      "bytes": 1782,
+      "sha256": "49d846fe80fea82698fd217b2b4bc4ffa601d8f203249ec6f0e377ad64cedf75"
+    },
+    {
+      "path": "RELIX/relix/io.py",
+      "bytes": 2686,
+      "sha256": "8e055967f4ba6e7c87469d9b7bec4a1979ea2262c09fb437fd6aa313247847bb"
+    },
+    {
+      "path": "RELIX/relix/runtime.py",
+      "bytes": 2973,
+      "sha256": "1b584fb3fc596ebe888eebe0a298f84bd7637db32d1720f104b6ade1ab8d6d90"
+    },
+    {
+      "path": "RELIX/robustness/__init__.py",
+      "bytes": 44,
+      "sha256": "3c5e5f81e4fe01b9fe4757fea4c164e637b01bdde5ff369802e40e5faf5289dc"
+    },
+    {
+      "path": "RELIX/robustness/fixed_refine.py",
+      "bytes": 3186,
+      "sha256": "aaf97179bb323a0f8224d0f7e6f32a375d2d4e11f269653125fc964f7afbaa66"
+    },
+    {
+      "path": "RELIX/robustness/metric_symmetry.py",
+      "bytes": 2899,
+      "sha256": "ff1756ed1f3111913f3919a74e2b53e475025b2d840c8bbae21bc1b74ff95a68"
+    },
+    {
+      "path": "RELIX/robustness/observations.py",
+      "bytes": 1232,
+      "sha256": "de909db6926be70bdfb44ac3103dca9d76c2489e5fcd0402d2ca0492e1b5c822"
+    },
+    {
+      "path": "RELIX/robustness/posterior_primitive.py",
+      "bytes": 1775,
+      "sha256": "51dec925791070592e3ee4b2239dd1d22bd44ba1be65ec2d00c3f3ed5fb81ee0"
+    },
+    {
+      "path": "RELIX/robustness/primitive_readout.py",
+      "bytes": 1112,
+      "sha256": "ebdbb8b4de89a3dd82ce8a28945e3a06dd99385bececa3c929615132c5a59e1e"
+    },
+    {
+      "path": "RELIX/robustness/robust_candidates.py",
+      "bytes": 6263,
+      "sha256": "2b892d72905f5805736838367c58169a06cf5e3964e909b6be2fa773dddf1ac8"
+    },
+    {
+      "path": "RELIX/xrdt_workspace.py",
+      "bytes": 547,
+      "sha256": "7e00f1076b7d32ced897d9c59470eaebe6e018992484fb7daddbec4026da75a6"
+    },
+    {
+      "path": "RELIX_PACKAGE.json",
+      "bytes": 1784,
+      "sha256": "23a343bb2cf43c6e716916918258870d8bd01af4c1c777051c1da23838252a33"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "bytes": 1295,
+      "sha256": "2598a87e050261102bbe175c327325f83737cdc17f6dba5d4abea85dd1dbf2de"
+    },
+    {
+      "path": "environment-inference.yml",
+      "bytes": 193,
+      "sha256": "1d6b578ba8fc8742b6e9911e7c2cb7f838a9273352809163919da7523de5e61b"
+    },
+    {
+      "path": "environment-simulator.yml",
+      "bytes": 184,
+      "sha256": "f8b85a389056b949564a60086348317d18fb03626d884406460824e953333b10"
+    },
+    {
+      "path": "examples/example.cif",
+      "bytes": 2929,
+      "sha256": "e3aa43821febd802e576f5cbc71d1e885737a161bd14fdfd7bab9ae82d0f8c4b"
+    },
+    {
+      "path": "examples/integrated_scan.csv",
+      "bytes": 67060,
+      "sha256": "6d174e99a933a0fd69a419aa015a76405333257e4f34c4128d0922a6d0e9913f"
+    },
+    {
+      "path": "examples/measured_scan.npz",
+      "bytes": 14350,
+      "sha256": "5d657e92f15c0d91eab4aab03905d44f23b3d96735819f38f0c1dbb24f77467d"
+    },
+    {
+      "path": "generate_simulation.py",
+      "bytes": 1926,
+      "sha256": "92d1ad028859dc1c0ca0f9cc3b4a80f87bf660614b7029fd71dff8f53109af90"
+    },
+    {
+      "path": "licenses/CCTBX.txt",
+      "bytes": 2431,
+      "sha256": "36f40d43cbb5b0ab47f066fb4623f5f8eface03947803766097b6780e35f83fd"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 735,
+      "sha256": "dfb2357f49fea530b6c92b7b3078f685e7a0513edc2889736cd1cf10d74c2989"
+    },
+    {
+      "path": "read_simulation.py",
+      "bytes": 1502,
+      "sha256": "b31024a61f002ac3029dd7755ff5ead6036d35f25468f507c48edcbe3d1f922f"
+    },
+    {
+      "path": "run_relix.py",
+      "bytes": 245,
+      "sha256": "9c2bc8d24b72af81cad0789496297d3780409ad9118f35dd70c1644b916979e5"
+    },
+    {
+      "path": "simulator/config/rotation_manual_config.yaml",
+      "bytes": 3,
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+    },
+    {
+      "path": "simulator/models/__init__.py",
+      "bytes": 110,
+      "sha256": "57308ea3781b01412c0bb4fe041cc5d9e940d6d48e8e49e75114627cae38b143"
+    },
+    {
+      "path": "simulator/models/crystal_model.py",
+      "bytes": 26806,
+      "sha256": "234d9c53c991b317ab92bef4bcc8c31eea40c00f276b9b507bc21d6591443fd1"
+    },
+    {
+      "path": "simulator/models/detector_model.py",
+      "bytes": 18459,
+      "sha256": "26078584e61849e2c9d7225739ba34c160f66333bbcd1792890948ca3559cb48"
+    },
+    {
+      "path": "simulator/models/lattice_label_convention.py",
+      "bytes": 11175,
+      "sha256": "3bd29a66538829d0f28c3b01394bed26eba1040a9144da7f2c8109895e50b874"
+    },
+    {
+      "path": "simulator/models/orientation_model.py",
+      "bytes": 19647,
+      "sha256": "8dd2620823371e326b405b7aaf2292f91bec979b1ffc0b1a2ad5987255c5d365"
+    },
+    {
+      "path": "simulator/models/rotation_predictor.py",
+      "bytes": 38150,
+      "sha256": "d224098dea34257c47d72dd7c20e54699777385f4af9f0eee3a59580a314fde3"
+    },
+    {
+      "path": "simulator/models/symmetry_convention.py",
+      "bytes": 1898,
+      "sha256": "5efd004f3ab4a82af6c67ffcbb94c9f05e96e287a8f7ae472d839a8c10979852"
+    },
+    {
+      "path": "simulator/scripts/generate_ml_dataset.py",
+      "bytes": 27909,
+      "sha256": "0e8425e232ce294f318c723d8451d054e0587b2bd0d2f746e4843132f6d6203e"
+    },
+    {
+      "path": "simulator/scripts/generate_ml_dataset_parallel.py",
+      "bytes": 44015,
+      "sha256": "b1aa07ae347ca37f6ff1717316fe351f921cba5d639bf0a343301530ce8976aa"
+    }
+  ]
+}

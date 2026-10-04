@@ -1,0 +1,52 @@
+{
+  "method": "RELIX",
+  "version": "1.0.0",
+  "interface": "measured integrated reflections",
+  "checkpoint_format": "relix-unified-checkpoint-v1",
+  "publication_status": "release snapshot",
+  "source_directory": "RELIX",
+  "distribution": {
+    "code": "GitHub",
+    "data": "Zenodo test split",
+    "model": "GitHub release"
+  },
+  "repository": "https://github.com/max6616/RELIX",
+  "simulator_sources": [
+    {
+      "path": "simulator/models/__init__.py",
+      "sha256": "57308ea3781b01412c0bb4fe041cc5d9e940d6d48e8e49e75114627cae38b143"
+    },
+    {
+      "path": "simulator/models/crystal_model.py",
+      "sha256": "234d9c53c991b317ab92bef4bcc8c31eea40c00f276b9b507bc21d6591443fd1"
+    },
+    {
+      "path": "simulator/models/detector_model.py",
+      "sha256": "26078584e61849e2c9d7225739ba34c160f66333bbcd1792890948ca3559cb48"
+    },
+    {
+      "path": "simulator/models/lattice_label_convention.py",
+      "sha256": "3bd29a66538829d0f28c3b01394bed26eba1040a9144da7f2c8109895e50b874"
+    },
+    {
+      "path": "simulator/models/orientation_model.py",
+      "sha256": "8dd2620823371e326b405b7aaf2292f91bec979b1ffc0b1a2ad5987255c5d365"
+    },
+    {
+      "path": "simulator/models/rotation_predictor.py",
+      "sha256": "d224098dea34257c47d72dd7c20e54699777385f4af9f0eee3a59580a314fde3"
+    },
+    {
+      "path": "simulator/models/symmetry_convention.py",
+      "sha256": "5efd004f3ab4a82af6c67ffcbb94c9f05e96e287a8f7ae472d839a8c10979852"
+    },
+    {
+      "path": "simulator/scripts/generate_ml_dataset.py",
+      "sha256": "0e8425e232ce294f318c723d8451d054e0587b2bd0d2f746e4843132f6d6203e"
+    },
+    {
+      "path": "simulator/scripts/generate_ml_dataset_parallel.py",
+      "sha256": "b1aa07ae347ca37f6ff1717316fe351f921cba5d639bf0a343301530ce8976aa"
+    }
+  ]
+}

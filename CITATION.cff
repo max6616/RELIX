@@ -1,0 +1,18 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite this software version when using RELIX.",
+  "type": "software",
+  "title": "RELIX: single-crystal diffraction indexing",
+  "authors": [
+    {
+      "given-names": "Zhao",
+      "family-names": "Zhang",
+      "affiliation": "School of Computer Science and Technology, East China Normal University, Shanghai 200062, China"
+    }
+  ],
+  "version": "1.0.0",
+  "date-released": "2026-10-04",
+  "url": "https://github.com/max6616/RELIX",
+  "repository-code": "https://github.com/max6616/RELIX",
+  "license": "MIT"
+}
