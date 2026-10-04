@@ -7,8 +7,13 @@
     },
     {
       "path": "CITATION.cff",
-      "bytes": 1982,
-      "sha256": "f66a952e901f05baae911674a04ea22635ca8e88a7f72d0e7eacad208df1594a"
+      "bytes": 4064,
+      "sha256": "e66bcd11185f7f3a049b180094c081bff4b66aa4f486560ead8dcab93350960d"
+    },
+    {
+      "path": "DATASET-CITATION.bib",
+      "bytes": 344,
+      "sha256": "956246fe812cba4235a33a431b151b5682e4957f80846d4a0120c68289fc7cdf"
     },
     {
       "path": "DATA_FORMAT.md",
@@ -32,8 +37,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5793,
-      "sha256": "3ca4349950e71806c363dabb22ff8a6e68108493ab88995cba7e72186e3bcd74"
+      "bytes": 6407,
+      "sha256": "0733215dd3737295c7d261b0ee7292d7ee3349bf3f708c131a521285994d4705"
     },
     {
       "path": "RELIX/lattice_aligned/__init__.py",
@@ -332,8 +337,8 @@
     },
     {
       "path": "RELIX_PACKAGE.json",
-      "bytes": 1784,
-      "sha256": "23a343bb2cf43c6e716916918258870d8bd01af4c1c777051c1da23838252a33"
+      "bytes": 2083,
+      "sha256": "6f77e6e0d1e2ad2bf30f9b3a3a7954af6ba143e963fee7c48bebce05dddde801"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",

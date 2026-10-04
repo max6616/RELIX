@@ -49,5 +49,60 @@
   "date-released": "2026-10-04",
   "url": "https://github.com/max6616/RELIX",
   "repository-code": "https://github.com/max6616/RELIX",
-  "license": "MIT"
+  "license": "MIT",
+  "references": [
+    {
+      "type": "data",
+      "title": "RELIX",
+      "authors": [
+        {
+          "given-names": "Zhao",
+          "family-names": "Zhang",
+          "affiliation": "School of Computer Science and Technology, East China Normal University, Shanghai 200062, China"
+        },
+        {
+          "given-names": "Zheng",
+          "family-names": "Dong",
+          "affiliation": "Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China"
+        },
+        {
+          "given-names": "Zhi",
+          "family-names": "Geng",
+          "affiliation": "Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China"
+        },
+        {
+          "given-names": "Rongchao",
+          "family-names": "Chen",
+          "affiliation": "Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China"
+        },
+        {
+          "given-names": "Xinlong",
+          "family-names": "Dong",
+          "affiliation": "School of Computer Science and Technology, East China Normal University, Shanghai 200062, China"
+        },
+        {
+          "given-names": "Changbo",
+          "family-names": "Wang",
+          "affiliation": "School of Data Science and Engineering, East China Normal University, Shanghai 200062, China"
+        },
+        {
+          "given-names": "Yi",
+          "family-names": "Zhang",
+          "affiliation": "Beijing Synchrotron Radiation Facility, Institute of High Energy Physics, Chinese Academy of Sciences, Beijing 100049, China"
+        },
+        {
+          "given-names": "Gaoqi",
+          "family-names": "He",
+          "affiliation": "School of Computer Science and Technology, East China Normal University, Shanghai 200062, China"
+        }
+      ],
+      "doi": "10.57967/hf/10757",
+      "url": "https://huggingface.co/datasets/max6616/RELIX",
+      "version": "0ab8d55",
+      "year": 2026,
+      "publisher": {
+        "name": "Hugging Face"
+      }
+    }
+  ]
 }

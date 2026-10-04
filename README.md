@@ -11,7 +11,7 @@ Downloads and dataset links are listed in the [v1.0.0 release](https://github.co
 `RELIX/` contains the model architecture and indexing algorithm; `simulator/`
 contains the diffraction simulator; `examples/` contains small example inputs.
 Source code is distributed through this repository. The simulation test
-dataset is distributed through Zenodo.
+dataset is available on [Hugging Face](https://doi.org/10.57967/hf/10757).
 
 ## Downloads
 
@@ -99,7 +99,7 @@ The full primary corpus has fixed train, val and test splits of 800,000,
 organized separately for subsequent release. The split assignments are fixed
 by crystal group, with ten scans per crystal.
 
-The [release page](https://github.com/max6616/RELIX/releases/tag/v1.0.0) links to the Zenodo test record. Download
+The [release page](https://github.com/max6616/RELIX/releases/tag/v1.0.0) links to the [published test dataset](https://doi.org/10.57967/hf/10757). Download
 both `RELIX-test-NNN.tar` volumes and the metadata ZIP. Follow its README
 to extract `test/raw/` and `test/metadata/`. `DATA_INDEX.csv` maps crystal IDs
 to volumes; `test.txt` lists the fixed scan identifiers.
@@ -128,5 +128,20 @@ terms are listed in `THIRD_PARTY_NOTICES.md`.
 RELIX and the supplied simulator are licensed under MIT; see `LICENSE`.
 The released model parameters and simulation data use CC BY 4.0.
 Source CIFs and dependencies retain their own attribution and license terms.
-Please cite the software version in `CITATION.cff` and the dataset DOI
-listed on the [release page](https://github.com/max6616/RELIX/releases/tag/v1.0.0).
+Please cite the software version in `CITATION.cff` and the test dataset
+using `DATASET-CITATION.bib` or the BibTeX below.
+
+## Dataset citation
+
+The published test split contains 10,000 source crystals and 100,000 simulated scans. DOI: [10.57967/hf/10757](https://doi.org/10.57967/hf/10757); registered revision `0ab8d55`; CC BY 4.0.
+
+```bibtex
+@misc{relix_test_dataset_2026,
+  author = {Zhang, Zhao and Dong, Zheng and Geng, Zhi and Chen, Rongchao and Dong, Xinlong and Wang, Changbo and Zhang, Yi and He, Gaoqi},
+  title = {{RELIX} (Revision 0ab8d55)},
+  year = {2026},
+  publisher = {Hugging Face},
+  doi = {10.57967/hf/10757},
+  url = {https://huggingface.co/datasets/max6616/RELIX}
+}
+```

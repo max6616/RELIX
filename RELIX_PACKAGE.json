@@ -7,7 +7,7 @@
   "source_directory": "RELIX",
   "distribution": {
     "code": "GitHub",
-    "data": "Zenodo test split",
+    "data": "Hugging Face test split",
     "model": "GitHub release"
   },
   "repository": "https://github.com/max6616/RELIX",
@@ -48,5 +48,13 @@
       "path": "simulator/scripts/generate_ml_dataset_parallel.py",
       "sha256": "b1aa07ae347ca37f6ff1717316fe351f921cba5d639bf0a343301530ce8976aa"
     }
-  ]
+  ],
+  "dataset_publication": {
+    "doi": "10.57967/hf/10757",
+    "doi_url": "https://doi.org/10.57967/hf/10757",
+    "repo_url": "https://huggingface.co/datasets/max6616/RELIX",
+    "revision": "0ab8d55",
+    "revision_full": "0ab8d5594f927fdc7e97d5a8906fb970be26f31e",
+    "split": "test"
+  }
 }
